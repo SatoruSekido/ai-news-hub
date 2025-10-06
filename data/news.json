@@ -1,5 +1,19 @@
 [
   {
+    "title": "Our new partnership with Alex Cooper and Unwell",
+    "link": "https://blog.google/inside-google/company-announcements/alex-cooper-unwell-network-google-partnership/",
+    "pubDate": "Mon, 06 Oct 2025 10:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "In August, Alex Cooper appeared at our Made by Google event to help introduce Camera Coach, a new feature on Pixel 10. Today, we’re announcing another collaboration with…"
+  },
+  {
+    "title": "Enabling real-time responsiveness with event-driven architecture",
+    "link": "https://www.technologyreview.com/2025/10/06/1124323/enabling-real-time-responsiveness-with-event-driven-architecture/",
+    "pubDate": "Mon, 06 Oct 2025 08:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": ""
+  },
+  {
     "title": "Google is investing in Arkansas with a new data center, energy efficiency programs and more.",
     "link": "https://blog.google/inside-google/company-announcements/google-american-innovation-arkansas/",
     "pubDate": "Thu, 02 Oct 2025 20:30:00 +0000",
@@ -140,13 +154,6 @@
     "contentSnippet": "When Kenneth Wehr started managing the Greenlandic-language version of Wikipedia four years ago, his first act was to delete almost everything. It had to go, he thought, if it had any chance of surviv"
   },
   {
-    "title": "Google AI Pro and Ultra subscribers now get Gemini CLI and Gemini Code Assist with higher limits.",
-    "link": "https://blog.google/technology/developers/gemini-cli-code-assist-higher-limits/",
-    "pubDate": "Wed, 24 Sep 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Google AI Pro and Ultra subscribers now get higher limits to Gemini CLI and Gemini Code Assist IDE extensions."
-  },
-  {
     "title": "The AI Hype Index: Cracking the chatbot code",
     "link": "https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/",
     "pubDate": "Wed, 24 Sep 2025 09:40:19 +0000",
@@ -173,13 +180,6 @@
     "pubDate": "Tue, 23 Sep 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "This medical startup uses LLMs to run appointments and make diagnoses",
-    "link": "https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/",
-    "pubDate": "Mon, 22 Sep 2025 09:10:47 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Imagine this: You’ve been feeling unwell, so you call up your doctor’s office to make an appointment. To your surprise, they schedule you in for the next day. At the appointment, you aren’t rushed thr"
   },
   {
     "title": "Gaia2 and ARE: Empowering the community to study agents",
