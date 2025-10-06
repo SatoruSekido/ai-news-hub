@@ -1,5 +1,26 @@
 [
   {
+    "title": "5 features for taking perfect group photos with Pixel 10",
+    "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
+    "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "These Pixel 10 and Google Photos features make it easier than ever to take great group photos."
+  },
+  {
+    "title": "Ask a Techspert: What is vibe coding?",
+    "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
+    "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about AI and how it’s enabling new development tools, like “vibe coding.”"
+  },
+  {
+    "title": "How we’re securing the AI frontier",
+    "link": "https://blog.google/technology/safety-security/ai-security-frontier-strategy-tools/",
+    "pubDate": "Mon, 06 Oct 2025 13:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "An overview of Google’s cohesive strategy for securing the AI ecosystem from the inside out."
+  },
+  {
     "title": "Our new partnership with Alex Cooper and Unwell",
     "link": "https://blog.google/inside-google/company-announcements/alex-cooper-unwell-network-google-partnership/",
     "pubDate": "Mon, 06 Oct 2025 10:00:00 +0000",
@@ -84,25 +105,11 @@
     "contentSnippet": ""
   },
   {
-    "title": "AI Mode can now help you search and explore visually",
-    "link": "https://blog.google/products/search/search-ai-updates-september-2025/",
-    "pubDate": "Tue, 30 Sep 2025 13:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "We’re redefining how you imagine, find and shop for just what you’re looking for in Search."
-  },
-  {
     "title": "The US may be heading toward a drone-filled future",
     "link": "https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/",
     "pubDate": "Tue, 30 Sep 2025 09:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "On Thursday, I published a story about the police-tech giant Flock Safety selling its drones to the private sector to track shoplifters. Keith Kauffman, a former police chief who now leads Flock’s dro"
-  },
-  {
-    "title": "Google’s “G” gets a brighter look.",
-    "link": "https://blog.google/inside-google/company-announcements/gradient-g-logo-design/",
-    "pubDate": "Mon, 29 Sep 2025 01:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Ten years ago, we introduced Google’s signature four-color G to match the new look and feel of our logo. The design update reflected all the ways people interacted with …"
   },
   {
     "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
@@ -124,13 +131,6 @@
     "pubDate": "Fri, 26 Sep 2025 19:03:34 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Generative AI has enabled the production of child sexual abuse images to skyrocket. Now the leading investigator of child exploitation in the US is experimenting with using AI to distinguish AI-genera"
-  },
-  {
-    "title": "Golf champ Bryson DeChambeau is partnering with Google Cloud to explore AI and sports performance.",
-    "link": "https://blog.google/products/google-cloud/bryson-dechambeau/",
-    "pubDate": "Fri, 26 Sep 2025 10:40:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Bryson DeChambeau is kicking off a partnership with Google Cloud to expand his AI aspirations."
   },
   {
     "title": "Swift Transformers Reaches 1.0 — and Looks to the Future",
