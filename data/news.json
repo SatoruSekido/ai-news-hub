@@ -1,5 +1,12 @@
 [
   {
+    "title": "The three big unanswered questions about Sora",
+    "link": "https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/",
+    "pubDate": "Tue, 07 Oct 2025 09:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hy"
+  },
+  {
     "title": "5 features for taking perfect group photos with Pixel 10",
     "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
     "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
@@ -166,13 +173,6 @@
     "pubDate": "Wed, 24 Sep 2025 09:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "It’s a tale as old as time. Looking for help with her art project, she strikes up a conversation with her assistant. One thing leads to another, and suddenly she has a boyfriend she’s introducing to h"
-  },
-  {
-    "title": "AI models are using material from retracted scientific papers",
-    "link": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
-    "pubDate": "Tue, 23 Sep 2025 09:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Some AI chatbots rely on flawed research from retracted scientific papers to answer questions, according to recent studies. The findings, confirmed by MIT Technology Review, raise questions about how "
   },
   {
     "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
