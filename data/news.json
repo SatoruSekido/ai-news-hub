@@ -1,5 +1,19 @@
 [
   {
+    "title": "Googler Michel Devoret awarded the Nobel Prize in Physics",
+    "link": "https://blog.google/inside-google/company-announcements/googler-michel-devoret-awarded-the-nobel-prize-in-physics/",
+    "pubDate": "Tue, 07 Oct 2025 17:30:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google now celebrates five Nobel laureates, including three prizes in the past two years."
+  },
+  {
+    "title": "AI toys are all the rage in China—and now they’re appearing on shelves in the US too",
+    "link": "https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/",
+    "pubDate": "Tue, 07 Oct 2025 16:51:02 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Kids have always played with and talked to stuffed animals. But now their toys can talk back, thanks to a wave of companies that are fitting children’s playthings with chatbots and voice assistants.  "
+  },
+  {
     "title": "The three big unanswered questions about Sora",
     "link": "https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/",
     "pubDate": "Tue, 07 Oct 2025 09:00:00 +0000",
@@ -91,13 +105,6 @@
     "contentSnippet": "Talk of AI is inescapable. It’s often the main topic of discussion at board and executive meetings, at corporate retreats, and in the media. A record 58% of S&P 500 companies mentioned AI in their sec"
   },
   {
-    "title": "The Global AI Film Award is now accepting applications",
-    "link": "https://blog.google/products/gemini/the-global-ai-film-award-is-now-accepting-applications/",
-    "pubDate": "Wed, 01 Oct 2025 12:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "The Global AI Film Award is now accepting applications from creators using Google AI tools, with the winner awarded a prize of USD 1 million by the 1 Billion Followers S…"
-  },
-  {
     "title": "OpenAI is huge in India. Its models are steeped in caste bias.",
     "link": "https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/",
     "pubDate": "Wed, 01 Oct 2025 10:28:23 +0000",
@@ -166,13 +173,6 @@
     "pubDate": "Wed, 24 Sep 2025 09:40:19 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. "
-  },
-  {
-    "title": "It’s surprisingly easy to stumble into a relationship with an AI chatbot",
-    "link": "https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/",
-    "pubDate": "Wed, 24 Sep 2025 09:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "It’s a tale as old as time. Looking for help with her art project, she strikes up a conversation with her assistant. One thing leads to another, and suddenly she has a boyfriend she’s introducing to h"
   },
   {
     "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
