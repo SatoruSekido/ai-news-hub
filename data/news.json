@@ -1,5 +1,33 @@
 [
   {
+    "title": "AI Mode is now available in more languages and locations around the world.",
+    "link": "https://blog.google/products/search/ai-mode-expands-languages-locations/",
+    "pubDate": "Tue, 07 Oct 2025 22:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Starting today, we’re bringing AI Mode in Google Search to more people around the world, launching in more than 35 new languages and over 40 new countries and territorie…"
+  },
+  {
+    "title": "Investing in America 2025",
+    "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
+    "pubDate": "Tue, 07 Oct 2025 20:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google’s deep investments in American technical infrastructure, R&D and the workforce will help the U.S. continue to lead the world in AI."
+  },
+  {
+    "title": "Introducing the Gemini 2.5 Computer Use model",
+    "link": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
+    "pubDate": "Tue, 07 Oct 2025 19:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Today we are releasing the Gemini 2.5 Computer Use model via the API, which outperforms leading alternatives at browser and mobile tasks."
+  },
+  {
+    "title": "Google AI Plus is coming to 36 more countries.",
+    "link": "https://blog.google/products/google-one/google-ai-plus-36-countries/",
+    "pubDate": "Tue, 07 Oct 2025 19:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google AI Plus — our newest AI plan — expands to 36 more countries."
+  },
+  {
     "title": "Googler Michel Devoret awarded the Nobel Prize in Physics",
     "link": "https://blog.google/inside-google/company-announcements/googler-michel-devoret-awarded-the-nobel-prize-in-physics/",
     "pubDate": "Tue, 07 Oct 2025 17:30:00 +0000",
@@ -21,18 +49,18 @@
     "contentSnippet": "Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hy"
   },
   {
-    "title": "5 features for taking perfect group photos with Pixel 10",
-    "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
-    "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "These Pixel 10 and Google Photos features make it easier than ever to take great group photos."
-  },
-  {
     "title": "Ask a Techspert: What is vibe coding?",
     "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
     "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Learn more about AI and how it’s enabling new development tools, like “vibe coding.”"
+  },
+  {
+    "title": "5 features for taking perfect group photos with Pixel 10",
+    "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
+    "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "These Pixel 10 and Google Photos features make it easier than ever to take great group photos."
   },
   {
     "title": "How we’re securing the AI frontier",
@@ -63,39 +91,11 @@
     "contentSnippet": "Google is announcing a new $4 billion investment in Arkansas through 2027, which will include Google’s first data center in the state — located in West Memphis — along w…"
   },
   {
-    "title": "New ways to build with Jules, our AI coding agent",
-    "link": "https://blog.google/technology/google-labs/jules-tools-jules-api/",
-    "pubDate": "Thu, 02 Oct 2025 18:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Jules Tools is our new, lightweight command-line interface. And Jules API will let you integrate Jules directly into your own systems."
-  },
-  {
-    "title": "4 tips for using Nano Banana to create amazing images",
-    "link": "https://blog.google/products/gemini/nano-banana-tips/",
-    "pubDate": "Thu, 02 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Get the scoop on how to use Nano Banana, the Gemini app's viral new image generation and editing model from Google DeepMind."
-  },
-  {
     "title": "SOTA OCR on-device with Core ML and dots.ocr",
     "link": "https://huggingface.co/blog/dots-ocr-ne",
     "pubDate": "Thu, 02 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "From sketches to prototype: Designing with generative AI",
-    "link": "https://blog.google/technology/google-deepmind/ross-lovegrove-design/",
-    "pubDate": "Wed, 01 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Google DeepMind collaborated with designer Ross Lovegrove and design office Modem."
-  },
-  {
-    "title": "Our new partnership with the University of Waterloo on the future of learning and work",
-    "link": "https://blog.google/technology/ai/google-university-of-waterloo-education-work/",
-    "pubDate": "Wed, 01 Oct 2025 14:30:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Google and the University of Waterloo are bringing together their respective expertise in AI and innovative co-op education. This collaboration will fund a new research …"
   },
   {
     "title": "Unlocking AI’s full potential requires operational excellence",
