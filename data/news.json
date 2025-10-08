@@ -1,5 +1,19 @@
 [
   {
+    "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+    "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
+    "pubDate": "Wed, 08 Oct 2025 17:15:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google is investing an additional €5 billion in Belgium over the next two years to expand its cloud and AI infrastructure. This includes expansions of our data center ca…"
+  },
+  {
+    "title": "The latest AI news we announced in September",
+    "link": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
+    "pubDate": "Wed, 08 Oct 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Here are Google’s latest AI updates from September 2025"
+  },
+  {
     "title": "AI Mode is now available in more languages and locations around the world.",
     "link": "https://blog.google/products/search/ai-mode-expands-languages-locations/",
     "pubDate": "Tue, 07 Oct 2025 22:00:00 +0000",
@@ -49,18 +63,18 @@
     "contentSnippet": "Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hy"
   },
   {
-    "title": "Ask a Techspert: What is vibe coding?",
-    "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
-    "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learn more about AI and how it’s enabling new development tools, like “vibe coding.”"
-  },
-  {
     "title": "5 features for taking perfect group photos with Pixel 10",
     "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
     "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "These Pixel 10 and Google Photos features make it easier than ever to take great group photos."
+  },
+  {
+    "title": "Ask a Techspert: What is vibe coding?",
+    "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
+    "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about AI and how it’s enabling new development tools, like “vibe coding.”"
   },
   {
     "title": "How we’re securing the AI frontier",
@@ -70,25 +84,11 @@
     "contentSnippet": "An overview of Google’s cohesive strategy for securing the AI ecosystem from the inside out."
   },
   {
-    "title": "Our new partnership with Alex Cooper and Unwell",
-    "link": "https://blog.google/inside-google/company-announcements/alex-cooper-unwell-network-google-partnership/",
-    "pubDate": "Mon, 06 Oct 2025 10:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "In August, Alex Cooper appeared at our Made by Google event to help introduce Camera Coach, a new feature on Pixel 10. Today, we’re announcing another collaboration with…"
-  },
-  {
     "title": "Enabling real-time responsiveness with event-driven architecture",
     "link": "https://www.technologyreview.com/2025/10/06/1124323/enabling-real-time-responsiveness-with-event-driven-architecture/",
     "pubDate": "Mon, 06 Oct 2025 08:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": ""
-  },
-  {
-    "title": "Google is investing in Arkansas with a new data center, energy efficiency programs and more.",
-    "link": "https://blog.google/inside-google/company-announcements/google-american-innovation-arkansas/",
-    "pubDate": "Thu, 02 Oct 2025 20:30:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Google is announcing a new $4 billion investment in Arkansas through 2027, which will include Google’s first data center in the state — located in West Memphis — along w…"
   },
   {
     "title": "SOTA OCR on-device with Core ML and dots.ocr",
