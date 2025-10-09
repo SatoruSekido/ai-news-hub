@@ -1,5 +1,19 @@
 [
   {
+    "title": "Gemini Enterprise: The new front door for Google AI in your workplace",
+    "link": "https://blog.google/products/google-cloud/gemini-enterprise-sundar-pichai/",
+    "pubDate": "Thu, 09 Oct 2025 12:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "True business transformation in the era of AI must go beyond simple chatbots. That’s what Gemini Enterprise does."
+  },
+  {
+    "title": "4 ways Gemini Enterprise makes work easier for everyone",
+    "link": "https://blog.google/products/google-cloud/4-ways-gemini-enterprise-makes-work-easier-for-everyone/",
+    "pubDate": "Thu, 09 Oct 2025 12:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Here are four ways Gemini Enterprise can help you and your team get time back in your day."
+  },
+  {
     "title": "Teaming up with LA28, Team USA and NBCUniversal for the LA28 Olympic and Paralympic Games",
     "link": "https://blog.google/inside-google/company-announcements/team-usa-la28-nbc-partnerships/",
     "pubDate": "Wed, 08 Oct 2025 17:30:00 +0000",
@@ -68,20 +82,6 @@
     "pubDate": "Tue, 07 Oct 2025 09:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hy"
-  },
-  {
-    "title": "5 features for taking perfect group photos with Pixel 10",
-    "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
-    "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "These Pixel 10 and Google Photos features make it easier than ever to take great group photos."
-  },
-  {
-    "title": "Ask a Techspert: What is vibe coding?",
-    "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
-    "pubDate": "Mon, 06 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learn more about AI and how it’s enabling new development tools, like “vibe coding.”"
   },
   {
     "title": "Enabling real-time responsiveness with event-driven architecture",
