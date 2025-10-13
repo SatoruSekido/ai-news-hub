@@ -1,5 +1,40 @@
 [
   {
+    "title": "New AI-powered features help you connect with web content in Search and Discover.",
+    "link": "https://blog.google/products/search/ai-features-web-content/",
+    "pubDate": "Mon, 13 Oct 2025 18:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "We’re introducing two new AI-powered features in Search and Discover to help you connect with fresh content and links from across the web."
+  },
+  {
+    "title": "Nano Banana is coming to Google Search, NotebookLM and Photos.",
+    "link": "https://blog.google/technology/ai/nano-banana-google-products/",
+    "pubDate": "Mon, 13 Oct 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google is bringing AI image editing with Nano Banana to Search, NotebookLM and Photos."
+  },
+  {
+    "title": "How to edit images with Nano Banana in Search",
+    "link": "https://blog.google/products/search/nano-banana-search-lens/",
+    "pubDate": "Mon, 13 Oct 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Here’s your guide for editing images in Search using Lens with Nano Banana."
+  },
+  {
+    "title": "Video Overviews on NotebookLM get a major upgrade with Nano Banana",
+    "link": "https://blog.google/technology/google-labs/video-overviews-nano-banana/",
+    "pubDate": "Mon, 13 Oct 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "NotebookLM's Video Overviews get an upgrade with visuals powered by Nano Banana and a new \"Brief\" format for quick summaries."
+  },
+  {
+    "title": "Transforming commercial pharma with agentic AI ",
+    "link": "https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/",
+    "pubDate": "Mon, 13 Oct 2025 13:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Amid the turbulence of the wider global economy in recent years, the pharmaceuticals industry is weathering its own storms. The rising cost of raw materials and supply chain disruptions are squeezing "
+  },
+  {
     "title": "Building connected data ecosystems for AI at scale",
     "link": "https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/",
     "pubDate": "Fri, 10 Oct 2025 16:11:22 +0000",
@@ -47,34 +82,6 @@
     "pubDate": "Wed, 08 Oct 2025 15:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Here are Google’s latest AI updates from September 2025"
-  },
-  {
-    "title": "AI Mode is now available in more languages and locations around the world.",
-    "link": "https://blog.google/products/search/ai-mode-expands-languages-locations/",
-    "pubDate": "Tue, 07 Oct 2025 22:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Starting today, we’re bringing AI Mode in Google Search to more people around the world, launching in more than 35 new languages and over 40 new countries and territorie…"
-  },
-  {
-    "title": "Investing in America 2025",
-    "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
-    "pubDate": "Tue, 07 Oct 2025 20:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Google’s deep investments in American technical infrastructure, R&D and the workforce will help the U.S. continue to lead the world in AI."
-  },
-  {
-    "title": "Introducing the Gemini 2.5 Computer Use model",
-    "link": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
-    "pubDate": "Tue, 07 Oct 2025 19:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Today we are releasing the Gemini 2.5 Computer Use model via the API, which outperforms leading alternatives at browser and mobile tasks."
-  },
-  {
-    "title": "Google AI Plus is coming to 36 more countries.",
-    "link": "https://blog.google/products/google-one/google-ai-plus-36-countries/",
-    "pubDate": "Tue, 07 Oct 2025 19:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Google AI Plus — our newest AI plan — expands to 36 more countries."
   },
   {
     "title": "AI toys are all the rage in China—and now they’re appearing on shelves in the US too",
@@ -166,13 +173,6 @@
     "pubDate": "Thu, 25 Sep 2025 17:34:26 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Flock Safety, whose drones were once reserved for police departments, is now offering them for private-sector security, the company announced today, with potential customers including businesses inten"
-  },
-  {
-    "title": "How AI and Wikipedia have sent vulnerable languages into a doom spiral",
-    "link": "https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/",
-    "pubDate": "Thu, 25 Sep 2025 09:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "When Kenneth Wehr started managing the Greenlandic-language version of Wikipedia four years ago, his first act was to delete almost everything. It had to go, he thought, if it had any chance of surviv"
   },
   {
     "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
