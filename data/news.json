@@ -1,5 +1,12 @@
 [
   {
+    "title": "Can we repair the internet?",
+    "link": "https://www.technologyreview.com/2025/10/14/1125104/internet-improvement-book-review-regulation-user-responsibility/",
+    "pubDate": "Tue, 14 Oct 2025 10:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "From addictive algorithms to exploitative apps, data mining to misinformation, the internet today can be a hazardous place. Books by three influential figures—the intellect behind “net neutrality,” a "
+  },
+  {
     "title": "New AI-powered features help you connect with web content in Search and Discover.",
     "link": "https://blog.google/products/search/ai-features-web-content/",
     "pubDate": "Mon, 13 Oct 2025 18:00:00 +0000",
@@ -166,13 +173,6 @@
     "pubDate": "Fri, 26 Sep 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Shoplifters could soon be chased down by drones",
-    "link": "https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/",
-    "pubDate": "Thu, 25 Sep 2025 17:34:26 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Flock Safety, whose drones were once reserved for police departments, is now offering them for private-sector security, the company announced today, with potential customers including businesses inten"
   },
   {
     "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
