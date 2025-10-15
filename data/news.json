@@ -1,5 +1,19 @@
 [
   {
+    "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
+    "link": "https://blog.google/technology/ai/veo-updates-flow/",
+    "pubDate": "Wed, 15 Oct 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Today, we’re introducing new and enhanced creative capabilities to edit your clips."
+  },
+  {
+    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
+    "link": "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/",
+    "pubDate": "Wed, 15 Oct 2025 12:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models."
+  },
+  {
     "title": "Future-proofing business capabilities with AI technologies",
     "link": "https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/",
     "pubDate": "Wed, 15 Oct 2025 11:07:35 +0000",
@@ -89,20 +103,6 @@
     "pubDate": "Thu, 09 Oct 2025 12:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Here are four ways Gemini Enterprise can help you and your team get time back in your day."
-  },
-  {
-    "title": "Teaming up with LA28, Team USA and NBCUniversal for the LA28 Olympic and Paralympic Games",
-    "link": "https://blog.google/inside-google/company-announcements/team-usa-la28-nbc-partnerships/",
-    "pubDate": "Wed, 08 Oct 2025 17:30:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "We’re announcing a partnership with LA28, Team USA, and NBCUniversal ahead of the Winter and Summer Olympic and Paralympic Games."
-  },
-  {
-    "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
-    "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
-    "pubDate": "Wed, 08 Oct 2025 17:15:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Google is investing an additional €5 billion in Belgium over the next two years to expand its cloud and AI infrastructure. This includes expansions of our data center ca…"
   },
   {
     "title": "AI toys are all the rage in China—and now they’re appearing on shelves in the US too",
