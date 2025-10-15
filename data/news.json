@@ -1,5 +1,19 @@
 [
   {
+    "title": "Future-proofing business capabilities with AI technologies",
+    "link": "https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/",
+    "pubDate": "Wed, 15 Oct 2025 11:07:35 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Artificial intelligence has always promised speed, efficiency, and new ways of solving problems. But what’s changed in the past few years is how quickly those promises are becoming reality. From oil a"
+  },
+  {
+    "title": "Get your VLM running in 3 simple steps on Intel CPUs",
+    "link": "https://huggingface.co/blog/openvino-vlm",
+    "pubDate": "Wed, 15 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "10 ways you can ask Google Photos to edit your photos for you",
     "link": "https://blog.google/products/photos/how-to-tips-editing-prompts/",
     "pubDate": "Tue, 14 Oct 2025 17:00:00 +0000",
@@ -161,13 +175,6 @@
     "contentSnippet": ""
   },
   {
-    "title": "US investigators are using AI to detect child abuse images made by AI",
-    "link": "https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/",
-    "pubDate": "Fri, 26 Sep 2025 19:03:34 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Generative AI has enabled the production of child sexual abuse images to skyrocket. Now the leading investigator of child exploitation in the US is experimenting with using AI to distinguish AI-genera"
-  },
-  {
     "title": "Swift Transformers Reaches 1.0 — and Looks to the Future",
     "link": "https://huggingface.co/blog/swift-transformers",
     "pubDate": "Fri, 26 Sep 2025 00:00:00 GMT",
@@ -199,13 +206,6 @@
     "title": "Democratizing AI Safety with RiskRubric.ai",
     "link": "https://huggingface.co/blog/riskrubric",
     "pubDate": "Thu, 18 Sep 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Public AI on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/inference-providers-publicai",
-    "pubDate": "Wed, 17 Sep 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
   }
