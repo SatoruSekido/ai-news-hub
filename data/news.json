@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+    "link": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
+    "pubDate": "Thu, 16 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
     "link": "https://blog.google/technology/ai/veo-updates-flow/",
     "pubDate": "Wed, 15 Oct 2025 16:00:00 +0000",
@@ -199,13 +206,6 @@
     "title": "Scaleway on Hugging Face Inference Providers 🔥",
     "link": "https://huggingface.co/blog/inference-providers-scaleway",
     "pubDate": "Fri, 19 Sep 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Democratizing AI Safety with RiskRubric.ai",
-    "link": "https://huggingface.co/blog/riskrubric",
-    "pubDate": "Thu, 18 Sep 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
   }
