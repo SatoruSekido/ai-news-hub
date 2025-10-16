@@ -1,5 +1,19 @@
 [
   {
+    "title": "10 years of genomics research at Google",
+    "link": "https://blog.google/technology/research/ten-years-google-genomics/",
+    "pubDate": "Thu, 16 Oct 2025 17:05:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "An overview of ten years of milestones and breakthroughs in Google’s work on genomics."
+  },
+  {
+    "title": "DeepSomatic, an open-source AI model, is speeding up genetic analysis for cancer research.",
+    "link": "https://blog.google/technology/research/deepsomatic-an-open-source-ai-model-is-speeding-up-genetic-analysis-for-cancer-research/",
+    "pubDate": "Thu, 16 Oct 2025 17:05:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "An overview of DeepSomatic, a new AI tool that helps identify complex genetic variants in cancer cells."
+  },
+  {
     "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
     "link": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
     "pubDate": "Thu, 16 Oct 2025 00:00:00 GMT",
@@ -96,20 +110,6 @@
     "pubDate": "Thu, 09 Oct 2025 18:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "A snapshot of how top companies, governments, researchers and startups are enhancing their work with Google's AI solutions."
-  },
-  {
-    "title": "Gemini Enterprise: The new front door for Google AI in your workplace",
-    "link": "https://blog.google/products/google-cloud/gemini-enterprise-sundar-pichai/",
-    "pubDate": "Thu, 09 Oct 2025 12:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "True business transformation in the era of AI must go beyond simple chatbots. That’s what Gemini Enterprise does."
-  },
-  {
-    "title": "4 ways Gemini Enterprise makes work easier for everyone",
-    "link": "https://blog.google/products/google-cloud/4-ways-gemini-enterprise-makes-work-easier-for-everyone/",
-    "pubDate": "Thu, 09 Oct 2025 12:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Here are four ways Gemini Enterprise can help you and your team get time back in your day."
   },
   {
     "title": "AI toys are all the rage in China—and now they’re appearing on shelves in the US too",
