@@ -1,5 +1,12 @@
 [
   {
+    "title": "From slop to Sotheby’s? AI art enters a new phase",
+    "link": "https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/",
+    "pubDate": "Fri, 17 Oct 2025 10:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp"
+  },
+  {
     "title": "10 years of genomics research at Google",
     "link": "https://blog.google/technology/research/ten-years-google-genomics/",
     "pubDate": "Thu, 16 Oct 2025 17:05:00 +0000",
@@ -159,13 +166,6 @@
     "pubDate": "Wed, 01 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "The US may be heading toward a drone-filled future",
-    "link": "https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/",
-    "pubDate": "Tue, 30 Sep 2025 09:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "On Thursday, I published a story about the police-tech giant Flock Safety selling its drones to the private sector to track shoplifters. Keith Kauffman, a former police chief who now leads Flock’s dro"
   },
   {
     "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
