@@ -1,5 +1,12 @@
 [
   {
+    "title": "Leveling up your developer experience in Google AI Studio",
+    "link": "https://blog.google/technology/developers/ai-studio-updates-more-control/",
+    "pubDate": "Sat, 18 Oct 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "AI Studio has released new updates that give developers even more control."
+  },
+  {
     "title": "From slop to Sotheby’s? AI art enters a new phase",
     "link": "https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/",
     "pubDate": "Fri, 17 Oct 2025 10:00:00 +0000",
@@ -110,13 +117,6 @@
     "pubDate": "Fri, 10 Oct 2025 16:11:22 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": ""
-  },
-  {
-    "title": "1,001 real-world gen AI use cases from the world's leading organizations",
-    "link": "https://blog.google/products/google-cloud/gen-ai-business-use-cases/",
-    "pubDate": "Thu, 09 Oct 2025 18:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "A snapshot of how top companies, governments, researchers and startups are enhancing their work with Google's AI solutions."
   },
   {
     "title": "AI toys are all the rage in China—and now they’re appearing on shelves in the US too",
