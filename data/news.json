@@ -1,5 +1,12 @@
 [
   {
+    "title": "Why AI should be able to “hang up” on you",
+    "link": "https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/",
+    "pubDate": "Tue, 21 Oct 2025 09:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Chatbots today are everything machines. If it can be put into words—relationship advice, work documents, code—AI will produce it, however imperfectly. But the one thing that almost no chatbot will eve"
+  },
+  {
     "title": "Leveling up your developer experience in Google AI Studio",
     "link": "https://blog.google/technology/developers/ai-studio-updates-more-control/",
     "pubDate": "Sat, 18 Oct 2025 15:00:00 +0000",
@@ -152,13 +159,6 @@
     "pubDate": "Wed, 01 Oct 2025 14:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Talk of AI is inescapable. It’s often the main topic of discussion at board and executive meetings, at corporate retreats, and in the media. A record 58% of S&P 500 companies mentioned AI in their sec"
-  },
-  {
-    "title": "OpenAI is huge in India. Its models are steeped in caste bias.",
-    "link": "https://www.technologyreview.com/2025/10/01/1124621/openai-india-caste-bias/",
-    "pubDate": "Wed, 01 Oct 2025 10:28:23 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "When Dhiraj Singha began applying for postdoctoral sociology fellowships in Bengaluru, India, in March, he wanted to make sure the English in his application was pitch-perfect. So he turned to ChatGPT"
   },
   {
     "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
