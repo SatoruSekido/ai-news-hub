@@ -42,6 +42,13 @@
     "contentSnippet": "Today, we’re introducing new and enhanced creative capabilities to edit your clips."
   },
   {
+    "title": "6 new ways Google is protecting you from scams",
+    "link": "https://blog.google/technology/safety-security/how-google-protects-against-scams-2025/",
+    "pubDate": "Wed, 15 Oct 2025 13:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "As scams grow in number and sophistication, we’re sharing 6 new ways Google is fighting scams to help keep you safe."
+  },
+  {
     "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
     "link": "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/",
     "pubDate": "Wed, 15 Oct 2025 12:00:00 +0000",
@@ -96,13 +103,6 @@
     "pubDate": "Mon, 13 Oct 2025 16:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Here’s your guide for editing images in Search using Lens with Nano Banana."
-  },
-  {
-    "title": "Video Overviews on NotebookLM get a major upgrade with Nano Banana",
-    "link": "https://blog.google/technology/google-labs/video-overviews-nano-banana/",
-    "pubDate": "Mon, 13 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "NotebookLM's Video Overviews get an upgrade with visuals powered by Nano Banana and a new \"Brief\" format for quick summaries."
   },
   {
     "title": "Transforming commercial pharma with agentic AI ",
