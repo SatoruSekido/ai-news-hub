@@ -1,10 +1,31 @@
 [
   {
+    "title": "Start learning all things AI on the new Google Skills",
+    "link": "https://blog.google/outreach-initiatives/education/google-skills/",
+    "pubDate": "Tue, 21 Oct 2025 13:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google Skills is a new home for building skills in AI, and learning about other topics like data analytics and security."
+  },
+  {
     "title": "Why AI should be able to “hang up” on you",
     "link": "https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/",
     "pubDate": "Tue, 21 Oct 2025 09:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Chatbots today are everything machines. If it can be put into words—relationship advice, work documents, code—AI will produce it, however imperfectly. But the one thing that almost no chatbot will eve"
+  },
+  {
+    "title": "Supercharge your OCR Pipelines with Open Models",
+    "link": "https://huggingface.co/blog/ocr-open-models",
+    "pubDate": "Tue, 21 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Unlock the power of images with AI Sheets",
+    "link": "https://huggingface.co/blog/aisheets-unlock-images",
+    "pubDate": "Tue, 21 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
   },
   {
     "title": "Leveling up your developer experience in Google AI Studio",
@@ -105,13 +126,6 @@
     "contentSnippet": "Google is bringing AI image editing with Nano Banana to Search, NotebookLM and Photos."
   },
   {
-    "title": "How to edit images with Nano Banana in Search",
-    "link": "https://blog.google/products/search/nano-banana-search-lens/",
-    "pubDate": "Mon, 13 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Here’s your guide for editing images in Search using Lens with Nano Banana."
-  },
-  {
     "title": "Transforming commercial pharma with agentic AI ",
     "link": "https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/",
     "pubDate": "Mon, 13 Oct 2025 13:00:00 +0000",
@@ -192,20 +206,6 @@
     "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
     "link": "https://huggingface.co/blog/smol2operator",
     "pubDate": "Tue, 23 Sep 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Gaia2 and ARE: Empowering the community to study agents",
-    "link": "https://huggingface.co/blog/gaia2",
-    "pubDate": "Mon, 22 Sep 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Scaleway on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/inference-providers-scaleway",
-    "pubDate": "Fri, 19 Sep 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
   }
