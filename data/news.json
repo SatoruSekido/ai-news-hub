@@ -1,5 +1,26 @@
 [
   {
+    "title": "New updates and more access to Google Earth AI",
+    "link": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
+    "pubDate": "Thu, 23 Oct 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Earth AI is helping enterprises and cities with everything from environmental monitoring to disaster response."
+  },
+  {
+    "title": "Redefining data engineering in the age of AI",
+    "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
+    "pubDate": "Thu, 23 Oct 2025 13:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiatives to life. After all, AI only delivers when you "
+  },
+  {
+    "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
+    "link": "https://huggingface.co/blog/openenv",
+    "pubDate": "Thu, 23 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "The CMA’s designation of Google’s mobile ecosystem",
     "link": "https://blog.google/around-the-globe/google-europe/united-kingdom/cmas-designation-of-googles-mobile-ecosystem/",
     "pubDate": "Wed, 22 Oct 2025 13:00:00 +0000",
@@ -140,13 +161,6 @@
     "contentSnippet": "From addictive algorithms to exploitative apps, data mining to misinformation, the internet today can be a hazardous place. Books by three influential figures—the intellect behind “net neutrality,” a "
   },
   {
-    "title": "New AI-powered features help you connect with web content in Search and Discover.",
-    "link": "https://blog.google/products/search/ai-features-web-content/",
-    "pubDate": "Mon, 13 Oct 2025 18:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "We’re introducing two new AI-powered features in Search and Discover to help you connect with fresh content and links from across the web."
-  },
-  {
     "title": "Transforming commercial pharma with agentic AI ",
     "link": "https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/",
     "pubDate": "Mon, 13 Oct 2025 13:00:00 +0000",
@@ -175,13 +189,6 @@
     "contentSnippet": "Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hy"
   },
   {
-    "title": "Enabling real-time responsiveness with event-driven architecture",
-    "link": "https://www.technologyreview.com/2025/10/06/1124323/enabling-real-time-responsiveness-with-event-driven-architecture/",
-    "pubDate": "Mon, 06 Oct 2025 08:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": ""
-  },
-  {
     "title": "SOTA OCR on-device with Core ML and dots.ocr",
     "link": "https://huggingface.co/blog/dots-ocr-ne",
     "pubDate": "Thu, 02 Oct 2025 00:00:00 GMT",
@@ -198,13 +205,6 @@
   {
     "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
     "link": "https://huggingface.co/blog/intel-qwen3-agent",
-    "pubDate": "Mon, 29 Sep 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "VibeGame: Exploring Vibe Coding Games",
-    "link": "https://huggingface.co/blog/vibegame",
     "pubDate": "Mon, 29 Sep 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
