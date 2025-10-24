@@ -1,5 +1,12 @@
 [
   {
+    "title": "LeRobot v0.4.0: Super Charging OSS Robotics Learning",
+    "link": "https://huggingface.co/blog/lerobot-release-v040",
+    "pubDate": "Fri, 24 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "New updates and more access to Google Earth AI",
     "link": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
     "pubDate": "Thu, 23 Oct 2025 15:00:00 +0000",
@@ -199,13 +206,6 @@
     "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
     "link": "https://huggingface.co/blog/rteb",
     "pubDate": "Wed, 01 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
-    "link": "https://huggingface.co/blog/intel-qwen3-agent",
-    "pubDate": "Mon, 29 Sep 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
   }
