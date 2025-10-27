@@ -1,5 +1,26 @@
 [
   {
+    "title": "Google Beam is working with the USO to support military families.",
+    "link": "https://blog.google/feed/google-beam-uso-partnership/",
+    "pubDate": "Mon, 27 Oct 2025 17:45:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about Google’s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones."
+  },
+  {
+    "title": "Streaming datasets: 100x More Efficient",
+    "link": "https://huggingface.co/blog/streaming-datasets",
+    "pubDate": "Mon, 27 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
+    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+    "link": "https://huggingface.co/blog/huggingface-hub-v1",
+    "pubDate": "Mon, 27 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "Introducing vibe coding in Google AI Studio",
     "link": "https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/",
     "pubDate": "Sun, 26 Oct 2025 15:00:00 +0000",
@@ -140,13 +161,6 @@
     "contentSnippet": "As scams grow in number and sophistication, we’re sharing 6 new ways Google is fighting scams to help keep you safe."
   },
   {
-    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
-    "link": "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/",
-    "pubDate": "Wed, 15 Oct 2025 12:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "We’re launching a new 27 billion parameter foundation model for single-cell analysis built on the Gemma family of open models."
-  },
-  {
     "title": "Future-proofing business capabilities with AI technologies",
     "link": "https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/",
     "pubDate": "Wed, 15 Oct 2025 11:07:35 +0000",
@@ -194,19 +208,5 @@
     "pubDate": "Tue, 07 Oct 2025 09:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Last week OpenAI released Sora, a TikTok-style app that presents an endless feed of exclusively AI-generated videos, each up to 10 seconds long. The app allows you to create a “cameo” of yourself—a hy"
-  },
-  {
-    "title": "SOTA OCR on-device with Core ML and dots.ocr",
-    "link": "https://huggingface.co/blog/dots-ocr-ne",
-    "pubDate": "Thu, 02 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
-    "link": "https://huggingface.co/blog/rteb",
-    "pubDate": "Wed, 01 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
   }
 ]
