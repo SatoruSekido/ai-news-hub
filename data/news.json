@@ -1,5 +1,19 @@
 [
   {
+    "title": "Meet the 11 startups using AI to build a safer digital future in Latin America",
+    "link": "https://blog.google/outreach-initiatives/entrepreneurs/google-for-startups-ai-for-cybersecurity-cohort/",
+    "pubDate": "Tue, 28 Oct 2025 17:30:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about the startups chosen for Google for Startups Accelerator: AI for Cybersecurity."
+  },
+  {
+    "title": "Finding return on AI investments across industries",
+    "link": "https://www.technologyreview.com/2025/10/28/1126693/finding-return-on-ai-investments-across-industries/",
+    "pubDate": "Tue, 28 Oct 2025 15:00:33 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "The market is officially three years post ChatGPT and many of the pundit bylines have shifted to using terms like “bubble” to suggest reasons behind generative AI not realizing material returns outsid"
+  },
+  {
     "title": "“We will never build a sex robot,” says Mustafa Suleyman",
     "link": "https://www.technologyreview.com/2025/10/28/1126781/we-will-never-build-a-sex-robot-says-mustafa-suleyman/",
     "pubDate": "Tue, 28 Oct 2025 11:07:39 +0000",
@@ -12,6 +26,13 @@
     "pubDate": "Tue, 28 Oct 2025 09:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "A few weeks ago, I set out on what I thought would be a straightforward reporting journey.  After years of momentum for AI—even if you didn’t think it would be good for the world, you probably thought"
+  },
+  {
+    "title": "Voice Cloning with Consent",
+    "link": "https://huggingface.co/blog/voice-consent-gate",
+    "pubDate": "Tue, 28 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
   },
   {
     "title": "Google Beam is working with the USO to support military families.",
@@ -168,25 +189,11 @@
     "contentSnippet": "Today, we’re introducing new and enhanced creative capabilities to edit your clips."
   },
   {
-    "title": "6 new ways Google is protecting you from scams",
-    "link": "https://blog.google/technology/safety-security/how-google-protects-against-scams-2025/",
-    "pubDate": "Wed, 15 Oct 2025 13:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "As scams grow in number and sophistication, we’re sharing 6 new ways Google is fighting scams to help keep you safe."
-  },
-  {
     "title": "Future-proofing business capabilities with AI technologies",
     "link": "https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/",
     "pubDate": "Wed, 15 Oct 2025 11:07:35 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Artificial intelligence has always promised speed, efficiency, and new ways of solving problems. But what’s changed in the past few years is how quickly those promises are becoming reality. From oil a"
-  },
-  {
-    "title": "Get your VLM running in 3 simple steps on Intel CPUs",
-    "link": "https://huggingface.co/blog/openvino-vlm",
-    "pubDate": "Wed, 15 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
   },
   {
     "title": "Can we repair the internet?",
@@ -201,12 +208,5 @@
     "pubDate": "Mon, 13 Oct 2025 13:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Amid the turbulence of the wider global economy in recent years, the pharmaceuticals industry is weathering its own storms. The rising cost of raw materials and supply chain disruptions are squeezing "
-  },
-  {
-    "title": "Building connected data ecosystems for AI at scale",
-    "link": "https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/",
-    "pubDate": "Fri, 10 Oct 2025 16:11:22 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": ""
   }
 ]
