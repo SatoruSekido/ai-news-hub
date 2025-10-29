@@ -1,5 +1,19 @@
 [
   {
+    "title": "Chat in NotebookLM: A powerful, goal-focused AI research partner",
+    "link": "https://blog.google/technology/google-labs/notebooklm-custom-personas-engine-upgrade/",
+    "pubDate": "Wed, 29 Oct 2025 17:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "We’re rolling out changes to NotebookLM to make it fundamentally smarter and more powerful."
+  },
+  {
+    "title": "Building a high performance data and AI organization (2nd edition)",
+    "link": "https://www.technologyreview.com/2025/10/29/1124014/building-a-high-performance-data-and-ai-organization-2nd-edition/",
+    "pubDate": "Wed, 29 Oct 2025 15:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Four years is a lifetime when it comes to artificial intelligence. Since the first edition of this study was published in 2021, AI’s capabilities have been advancing at speed, and the advances have no"
+  },
+  {
     "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
     "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
     "pubDate": "Wed, 29 Oct 2025 10:41:19 +0000",
@@ -11,7 +25,7 @@
     "link": "https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/",
     "pubDate": "Wed, 29 Oct 2025 10:00:00 +0000",
     "source": "MIT Tech Review",
-    "contentSnippet": "An AI model released by Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last week, the optical character recognition (OCR) model w"
+    "contentSnippet": "An AI model released by the Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last week, the optical character recognition (OCR) mod"
   },
   {
     "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
@@ -194,19 +208,5 @@
     "pubDate": "Thu, 16 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
-    "link": "https://blog.google/technology/ai/veo-updates-flow/",
-    "pubDate": "Wed, 15 Oct 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Today, we’re introducing new and enhanced creative capabilities to edit your clips."
-  },
-  {
-    "title": "Future-proofing business capabilities with AI technologies",
-    "link": "https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/",
-    "pubDate": "Wed, 15 Oct 2025 11:07:35 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Artificial intelligence has always promised speed, efficiency, and new ways of solving problems. But what’s changed in the past few years is how quickly those promises are becoming reality. From oil a"
   }
 ]
