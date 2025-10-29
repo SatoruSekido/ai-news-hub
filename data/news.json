@@ -1,5 +1,19 @@
 [
   {
+    "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
+    "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
+    "pubDate": "Wed, 29 Oct 2025 10:41:19 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. "
+  },
+  {
+    "title": "DeepSeek may have found a new way to improve AI’s ability to remember",
+    "link": "https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/",
+    "pubDate": "Wed, 29 Oct 2025 10:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "An AI model released by Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last week, the optical character recognition (OCR) model w"
+  },
+  {
     "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
     "link": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
     "pubDate": "Wed, 29 Oct 2025 00:00:00 GMT",
@@ -194,19 +208,5 @@
     "pubDate": "Wed, 15 Oct 2025 11:07:35 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Artificial intelligence has always promised speed, efficiency, and new ways of solving problems. But what’s changed in the past few years is how quickly those promises are becoming reality. From oil a"
-  },
-  {
-    "title": "Can we repair the internet?",
-    "link": "https://www.technologyreview.com/2025/10/14/1125104/internet-improvement-book-review-regulation-user-responsibility/",
-    "pubDate": "Tue, 14 Oct 2025 10:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "From addictive algorithms to exploitative apps, data mining to misinformation, the internet today can be a hazardous place. Books by three influential figures—the intellect behind “net neutrality,” a "
-  },
-  {
-    "title": "Transforming commercial pharma with agentic AI ",
-    "link": "https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/",
-    "pubDate": "Mon, 13 Oct 2025 13:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Amid the turbulence of the wider global economy in recent years, the pharmaceuticals industry is weathering its own storms. The rising cost of raw materials and supply chain disruptions are squeezing "
   }
 ]
