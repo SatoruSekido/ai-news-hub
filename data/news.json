@@ -1,5 +1,26 @@
 [
   {
+    "title": "Leveraging the clinician’s expertise with agentic AI",
+    "link": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
+    "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
+    "link": "https://www.technologyreview.com/2025/10/30/1126471/chatbots-are-surprisingly-effective-at-debunking-conspiracy-theories/",
+    "pubDate": "Thu, 30 Oct 2025 10:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists o"
+  },
+  {
+    "title": "How AGI became the most consequential conspiracy theory of our time",
+    "link": "https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/",
+    "pubDate": "Thu, 30 Oct 2025 10:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Are you feeling it? I hear it’s close: two years, five years—maybe next year! And I hear it’s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It wi"
+  },
+  {
     "title": "Chat in NotebookLM: A powerful, goal-focused AI research partner",
     "link": "https://blog.google/technology/google-labs/notebooklm-custom-personas-engine-upgrade/",
     "pubDate": "Wed, 29 Oct 2025 17:00:00 +0000",
@@ -126,13 +147,6 @@
     "contentSnippet": "We are disappointed by the CMA’s designation of an open mobile ecosystem with strategic market status."
   },
   {
-    "title": "Dispatch: Partying at one of Africa’s largest AI gatherings",
-    "link": "https://www.technologyreview.com/2025/10/22/1125361/africa-ai-policymaking-nyalleng-moorosi/",
-    "pubDate": "Wed, 22 Oct 2025 10:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "It’s late August in Rwanda’s capital, Kigali, and people are filling a large hall at one of Africa’s biggest gatherings of minds in AI and machine learning. The room is draped in white curtains, and a"
-  },
-  {
     "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
     "link": "https://huggingface.co/blog/virustotal",
     "pubDate": "Wed, 22 Oct 2025 00:00:00 GMT",
@@ -154,13 +168,6 @@
     "contentSnippet": "Google Skills is a new home for building skills in AI, and learning about other topics like data analytics and security."
   },
   {
-    "title": "Why AI should be able to “hang up” on you",
-    "link": "https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/",
-    "pubDate": "Tue, 21 Oct 2025 09:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Chatbots today are everything machines. If it can be put into words—relationship advice, work documents, code—AI will produce it, however imperfectly. But the one thing that almost no chatbot will eve"
-  },
-  {
     "title": "Supercharge your OCR Pipelines with Open Models",
     "link": "https://huggingface.co/blog/ocr-open-models",
     "pubDate": "Tue, 21 Oct 2025 00:00:00 GMT",
@@ -180,13 +187,6 @@
     "pubDate": "Sat, 18 Oct 2025 15:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "AI Studio has released new updates that give developers even more control."
-  },
-  {
-    "title": "From slop to Sotheby’s? AI art enters a new phase",
-    "link": "https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/",
-    "pubDate": "Fri, 17 Oct 2025 10:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp"
   },
   {
     "title": "10 years of genomics research at Google",
