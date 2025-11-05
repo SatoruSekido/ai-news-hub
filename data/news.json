@@ -1,5 +1,12 @@
 [
   {
+    "title": "Improving Structured Outputs in the Gemini API",
+    "link": "https://blog.google/technology/developers/gemini-api-structured-outputs/",
+    "pubDate": "Wed, 05 Nov 2025 17:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Today, we're announcing enhancements to Structured Outputs in the Gemini API."
+  },
+  {
     "title": "The latest AI news we announced in October",
     "link": "https://blog.google/technology/ai/google-ai-updates-october-2025/",
     "pubDate": "Tue, 04 Nov 2025 17:00:00 +0000",
@@ -194,13 +201,6 @@
     "pubDate": "Tue, 21 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Leveling up your developer experience in Google AI Studio",
-    "link": "https://blog.google/technology/developers/ai-studio-updates-more-control/",
-    "pubDate": "Sat, 18 Oct 2025 15:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "AI Studio has released new updates that give developers even more control."
   },
   {
     "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
