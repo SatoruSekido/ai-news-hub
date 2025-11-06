@@ -1,5 +1,19 @@
 [
   {
+    "title": "Google Finance adds AI features for research, earnings and more",
+    "link": "https://blog.google/products/search/new-google-finance-ai-deep-search/",
+    "pubDate": "Thu, 06 Nov 2025 17:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about the new Google Finance, including new features like Deep Search and prediction markets data."
+  },
+  {
+    "title": "AI and learning: A new chapter for students and educators",
+    "link": "https://blog.google/outreach-initiatives/education/ai-and-learning/",
+    "pubDate": "Thu, 06 Nov 2025 17:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "How Google approaches AI and education, from our tools to our commitment to responsibility."
+  },
+  {
     "title": "Improving Structured Outputs in the Gemini API",
     "link": "https://blog.google/technology/developers/gemini-api-structured-outputs/",
     "pubDate": "Wed, 05 Nov 2025 17:00:00 +0000",
@@ -161,13 +175,6 @@
     "contentSnippet": ""
   },
   {
-    "title": "The CMA’s designation of Google’s mobile ecosystem",
-    "link": "https://blog.google/around-the-globe/google-europe/united-kingdom/cmas-designation-of-googles-mobile-ecosystem/",
-    "pubDate": "Wed, 22 Oct 2025 13:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "We are disappointed by the CMA’s designation of an open mobile ecosystem with strategic market status."
-  },
-  {
     "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
     "link": "https://huggingface.co/blog/virustotal",
     "pubDate": "Wed, 22 Oct 2025 00:00:00 GMT",
@@ -180,13 +187,6 @@
     "pubDate": "Wed, 22 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Start learning all things AI on the new Google Skills",
-    "link": "https://blog.google/outreach-initiatives/education/google-skills/",
-    "pubDate": "Tue, 21 Oct 2025 13:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Google Skills is a new home for building skills in AI, and learning about other topics like data analytics and security."
   },
   {
     "title": "Supercharge your OCR Pipelines with Open Models",
