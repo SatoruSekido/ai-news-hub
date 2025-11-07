@@ -161,6 +161,13 @@
     "contentSnippet": "Introducing vibe coding in Google AI Studio"
   },
   {
+    "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+    "link": "https://huggingface.co/blog/lerobot-release-v040",
+    "pubDate": "Fri, 24 Oct 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "Redefining data engineering in the age of AI",
     "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
     "pubDate": "Thu, 23 Oct 2025 13:00:00 +0000",
@@ -199,13 +206,6 @@
     "title": "Unlock the power of images with AI Sheets",
     "link": "https://huggingface.co/blog/aisheets-unlock-images",
     "pubDate": "Tue, 21 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
-    "link": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
-    "pubDate": "Thu, 16 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
   }
