@@ -1,5 +1,12 @@
 [
   {
+    "title": "Google is investing in Oklahoma’s workforce and talent pipeline.",
+    "link": "https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/",
+    "pubDate": "Fri, 07 Nov 2025 19:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…"
+  },
+  {
     "title": "Introducing the File Search Tool in Gemini API",
     "link": "https://blog.google/technology/developers/file-search-gemini-api/",
     "pubDate": "Thu, 06 Nov 2025 18:00:00 +0000",
@@ -152,13 +159,6 @@
     "pubDate": "Mon, 27 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Introducing vibe coding in Google AI Studio",
-    "link": "https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/",
-    "pubDate": "Sun, 26 Oct 2025 15:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Introducing vibe coding in Google AI Studio"
   },
   {
     "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
