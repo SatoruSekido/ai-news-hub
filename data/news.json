@@ -1,5 +1,19 @@
 [
   {
+    "title": "Reimagining cybersecurity in the era of AI and quantum",
+    "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+    "pubDate": "Mon, 10 Nov 2025 14:19:28 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization"
+  },
+  {
+    "title": "How AI is giving Northern Ireland teachers time back",
+    "link": "https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/",
+    "pubDate": "Mon, 10 Nov 2025 09:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "A six-month long pilot program with the Northern Ireland Education Authority’s C2k initiative found that integrating Gemini and other generative AI tools saved participa…"
+  },
+  {
     "title": "Google is investing in Oklahoma’s workforce and talent pipeline.",
     "link": "https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/",
     "pubDate": "Fri, 07 Nov 2025 19:00:00 +0000",
@@ -40,13 +54,6 @@
     "pubDate": "Tue, 04 Nov 2025 17:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Here are Google’s latest AI updates from October 2025"
-  },
-  {
-    "title": "How AI is giving Northern Ireland teachers time back",
-    "link": "https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/",
-    "pubDate": "Mon, 03 Nov 2025 09:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "A six-month long pilot program with the Northern Ireland Education Authority’s C2k initiative found that integrating Gemini and other generative AI tools saved participa…"
   },
   {
     "title": "New tools in Google AI Studio to explore, debug and share logs",
@@ -166,13 +173,6 @@
     "pubDate": "Fri, 24 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Redefining data engineering in the age of AI",
-    "link": "https://www.technologyreview.com/2025/10/23/1125651/redefining-data-engineering-in-the-age-of-ai/",
-    "pubDate": "Thu, 23 Oct 2025 13:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiatives to life. After all, AI only delivers when you "
   },
   {
     "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
