@@ -1,5 +1,12 @@
 [
   {
+    "title": "Improving VMware migration workflows with agentic AI",
+    "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+    "pubDate": "Wed, 12 Nov 2025 10:11:15 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, l"
+  },
+  {
     "title": "Private AI Compute: our next step in building private and helpful AI",
     "link": "https://blog.google/technology/ai/google-private-ai-compute/",
     "pubDate": "Tue, 11 Nov 2025 19:00:00 +0000",
@@ -138,13 +145,6 @@
     "pubDate": "Tue, 28 Oct 2025 11:07:39 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Mustafa Suleyman, CEO of Microsoft AI, is trying to walk a fine line. On the one hand, he thinks that the industry is taking AI in a dangerous direction by building chatbots that present as human: He "
-  },
-  {
-    "title": "An AI adoption riddle",
-    "link": "https://www.technologyreview.com/2025/10/28/1126687/an-ai-adoption-riddle/",
-    "pubDate": "Tue, 28 Oct 2025 09:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "A few weeks ago, I set out on what I thought would be a straightforward reporting journey.  After years of momentum for AI—even if you didn’t think it would be good for the world, you probably thought"
   },
   {
     "title": "Voice Cloning with Consent",
