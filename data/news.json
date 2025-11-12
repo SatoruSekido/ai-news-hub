@@ -1,5 +1,12 @@
 [
   {
+    "title": "Private AI Compute: our next step in building private and helpful AI",
+    "link": "https://blog.google/technology/ai/google-private-ai-compute/",
+    "pubDate": "Tue, 11 Nov 2025 19:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you."
+  },
+  {
     "title": "6 new things you can do with AI in Google Photos",
     "link": "https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/",
     "pubDate": "Tue, 11 Nov 2025 17:00:00 +0000",
@@ -68,13 +75,6 @@
     "pubDate": "Tue, 04 Nov 2025 17:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Here are Google’s latest AI updates from October 2025"
-  },
-  {
-    "title": "New tools in Google AI Studio to explore, debug and share logs",
-    "link": "https://blog.google/technology/developers/google-ai-studio-logs-datasets/",
-    "pubDate": "Thu, 30 Oct 2025 17:05:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "We’re introducing a new logs and datasets feature in Google AI Studio."
   },
   {
     "title": "Leveraging the clinician’s expertise with agentic AI",
