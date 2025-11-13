@@ -1,10 +1,31 @@
 [
   {
+    "title": "OpenAI’s new LLM exposes the secrets of how AI really works",
+    "link": "https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/",
+    "pubDate": "Thu, 13 Nov 2025 18:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. That’s a big deal, because today’s LLMs are black boxes: Nobody fully understa"
+  },
+  {
+    "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
+    "link": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
+    "pubDate": "Thu, 13 Nov 2025 15:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The company claims it’s a big step toward more general"
+  },
+  {
     "title": "Google Pixel and Golden Goose partner to  bring AI to global ateliers",
     "link": "https://blog.google/products/pixel/google-pixel-and-golden-goose-partner-to-bring-ai-to-global-ateliers/",
     "pubDate": "Thu, 13 Nov 2025 08:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Advances in AI have opened up the possibilities for greater personalisation in the fashion world. Exploring this intersection between technology and high fashion, we’re …"
+  },
+  {
+    "title": "Building for an Open Future - our new partnership with Google Cloud",
+    "link": "https://huggingface.co/blog/google-cloud",
+    "pubDate": "Thu, 13 Nov 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
   },
   {
     "title": "Improving VMware migration workflows with agentic AI",
@@ -133,20 +154,6 @@
     "contentSnippet": ""
   },
   {
-    "title": "Finding return on AI investments across industries",
-    "link": "https://www.technologyreview.com/2025/10/28/1126693/finding-return-on-ai-investments-across-industries/",
-    "pubDate": "Tue, 28 Oct 2025 15:00:33 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "The market is officially three years post ChatGPT and many of the pundit bylines have shifted to using terms like “bubble” to suggest reasons behind generative AI not realizing material returns outsid"
-  },
-  {
-    "title": "“We will never build a sex robot,” says Mustafa Suleyman",
-    "link": "https://www.technologyreview.com/2025/10/28/1126781/we-will-never-build-a-sex-robot-says-mustafa-suleyman/",
-    "pubDate": "Tue, 28 Oct 2025 11:07:39 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Mustafa Suleyman, CEO of Microsoft AI, is trying to walk a fine line. On the one hand, he thinks that the industry is taking AI in a dangerous direction by building chatbots that present as human: He "
-  },
-  {
     "title": "Voice Cloning with Consent",
     "link": "https://huggingface.co/blog/voice-consent-gate",
     "pubDate": "Tue, 28 Oct 2025 00:00:00 GMT",
@@ -198,13 +205,6 @@
   {
     "title": "Supercharge your OCR Pipelines with Open Models",
     "link": "https://huggingface.co/blog/ocr-open-models",
-    "pubDate": "Tue, 21 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Unlock the power of images with AI Sheets",
-    "link": "https://huggingface.co/blog/aisheets-unlock-images",
     "pubDate": "Tue, 21 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
