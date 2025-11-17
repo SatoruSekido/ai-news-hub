@@ -1,10 +1,38 @@
 [
   {
+    "title": "New ways to plan travel with AI in Search",
+    "link": "https://blog.google/products/search/agentic-plans-booking-travel-canvas-ai-mode/",
+    "pubDate": "Mon, 17 Nov 2025 17:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Use new Google AI tools to get help with itineraries, finding flight deals and booking reservations."
+  },
+  {
+    "title": "The State of AI: How war will be changed forever",
+    "link": "https://www.technologyreview.com/2025/11/17/1127514/the-state-of-ai-the-new-rules-of-war/",
+    "pubDate": "Mon, 17 Nov 2025 16:30:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revoluti"
+  },
+  {
+    "title": "WeatherNext 2: Our most advanced weather forecasting model",
+    "link": "https://blog.google/technology/google-deepmind/weathernext-2/",
+    "pubDate": "Mon, 17 Nov 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "The new AI model delivers more efficient, more accurate and higher-resolution global weather predictions."
+  },
+  {
     "title": "Google is committing $2.25 million to support AI-ready data in Africa.",
     "link": "https://blog.google/technology/ai/ai-ready-data-in-africa/",
     "pubDate": "Mon, 17 Nov 2025 08:30:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "New funding from Google will help launch a regional Data Commons for Africa."
+  },
+  {
+    "title": "Easily Build and Share ROCm Kernels with Hugging Face",
+    "link": "https://huggingface.co/blog/build-rocm-kernels",
+    "pubDate": "Mon, 17 Nov 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
   },
   {
     "title": "OpenAI’s new LLM exposes the secrets of how AI really works",
@@ -91,20 +119,6 @@
     "contentSnippet": "File Search is a fully managed Retrieval Augmented Generation (RAG) system built directly into the Gemini API."
   },
   {
-    "title": "Google Finance adds AI features for research, earnings and more",
-    "link": "https://blog.google/products/search/new-google-finance-ai-deep-search/",
-    "pubDate": "Thu, 06 Nov 2025 17:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learn more about the new Google Finance, including new features like Deep Search and prediction markets data."
-  },
-  {
-    "title": "AI and learning: A new chapter for students and educators",
-    "link": "https://blog.google/outreach-initiatives/education/ai-and-learning/",
-    "pubDate": "Thu, 06 Nov 2025 17:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "How Google approaches AI and education, from our tools to our commitment to responsibility."
-  },
-  {
     "title": "Leveraging the clinician’s expertise with agentic AI",
     "link": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
     "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
@@ -138,13 +152,6 @@
     "pubDate": "Wed, 29 Oct 2025 10:41:19 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. "
-  },
-  {
-    "title": "DeepSeek may have found a new way to improve AI’s ability to remember",
-    "link": "https://www.technologyreview.com/2025/10/29/1126932/deepseek-ocr-visual-compression/",
-    "pubDate": "Wed, 29 Oct 2025 10:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "An AI model released by the Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last week, the optical character recognition (OCR) mod"
   },
   {
     "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
@@ -199,13 +206,6 @@
     "title": "Sentence Transformers is joining Hugging Face!",
     "link": "https://huggingface.co/blog/sentence-transformers-joins-hf",
     "pubDate": "Wed, 22 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Supercharge your OCR Pipelines with Open Models",
-    "link": "https://huggingface.co/blog/ocr-open-models",
-    "pubDate": "Tue, 21 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
   }
