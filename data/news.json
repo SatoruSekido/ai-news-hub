@@ -1,5 +1,12 @@
 [
   {
+    "title": "Investing in America 2025",
+    "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
+    "pubDate": "Mon, 17 Nov 2025 20:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google’s deep investments in American technical infrastructure, R&D and the workforce will help the U.S. continue to lead the world in AI."
+  },
+  {
     "title": "New ways to plan travel with AI in Search",
     "link": "https://blog.google/products/search/agentic-plans-booking-travel-canvas-ai-mode/",
     "pubDate": "Mon, 17 Nov 2025 17:00:00 +0000",
@@ -110,13 +117,6 @@
     "pubDate": "Fri, 07 Nov 2025 19:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…"
-  },
-  {
-    "title": "Introducing the File Search Tool in Gemini API",
-    "link": "https://blog.google/technology/developers/file-search-gemini-api/",
-    "pubDate": "Thu, 06 Nov 2025 18:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "File Search is a fully managed Retrieval Augmented Generation (RAG) system built directly into the Gemini API."
   },
   {
     "title": "Leveraging the clinician’s expertise with agentic AI",
