@@ -1,5 +1,40 @@
 [
   {
+    "title": "Networking for AI: Building the foundation for real-time intelligence",
+    "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
+    "pubDate": "Tue, 18 Nov 2025 16:03:14 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators "
+  },
+  {
+    "title": "Realizing value with AI inference at scale and in production",
+    "link": "https://www.technologyreview.com/2025/11/18/1128007/realizing-value-with-ai-inference-at-scale-and-in-production/",
+    "pubDate": "Tue, 18 Nov 2025 16:02:16 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Training an AI model to predict equipment failures is an engineering achievement. But it’s not until prediction meets action—the moment that model successfully flags a malfunctioning machine—that true"
+  },
+  {
+    "title": "Google’s new Gemini 3 “vibe-codes” responses and comes with its own agent",
+    "link": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/",
+    "pubDate": "Tue, 18 Nov 2025 16:00:07 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across"
+  },
+  {
+    "title": "Google Search with Gemini 3: Our most intelligent search yet",
+    "link": "https://blog.google/products/search/gemini-3-search-ai-mode/",
+    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about Gemini 3 and how it’s upgrading Google Search and AI Mode."
+  },
+  {
+    "title": "A new era of intelligence with Gemini 3",
+    "link": "https://blog.google/products/gemini/gemini-3/",
+    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life."
+  },
+  {
     "title": "Investing in America 2025",
     "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
     "pubDate": "Mon, 17 Nov 2025 20:00:00 +0000",
@@ -105,20 +140,6 @@
     "contentSnippet": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization"
   },
   {
-    "title": "How AI is giving Northern Ireland teachers time back",
-    "link": "https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/",
-    "pubDate": "Mon, 10 Nov 2025 09:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "A six-month long pilot program with the Northern Ireland Education Authority’s C2k initiative found that integrating Gemini and other generative AI tools saved participa…"
-  },
-  {
-    "title": "Google is investing in Oklahoma’s workforce and talent pipeline.",
-    "link": "https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/",
-    "pubDate": "Fri, 07 Nov 2025 19:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…"
-  },
-  {
     "title": "Leveraging the clinician’s expertise with agentic AI",
     "link": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
     "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
@@ -131,27 +152,6 @@
     "pubDate": "Thu, 30 Oct 2025 10:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists o"
-  },
-  {
-    "title": "How AGI became the most consequential conspiracy theory of our time",
-    "link": "https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/",
-    "pubDate": "Thu, 30 Oct 2025 10:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Are you feeling it? I hear it’s close: two years, five years—maybe next year! And I hear it’s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It wi"
-  },
-  {
-    "title": "Building a high performance data and AI organization (2nd edition)",
-    "link": "https://www.technologyreview.com/2025/10/29/1124014/building-a-high-performance-data-and-ai-organization-2nd-edition/",
-    "pubDate": "Wed, 29 Oct 2025 15:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Four years is a lifetime when it comes to artificial intelligence. Since the first edition of this study was published in 2021, AI’s capabilities have been advancing at speed, and the advances have no"
-  },
-  {
-    "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
-    "link": "https://www.technologyreview.com/2025/10/29/1126834/the-ai-hype-index-data-centers-neighbors-are-pivoting-to-power-blackouts/",
-    "pubDate": "Wed, 29 Oct 2025 10:41:19 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. "
   },
   {
     "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
