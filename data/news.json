@@ -1,5 +1,19 @@
 [
   {
+    "title": "Quantum physicists have shrunk and “de-censored” DeepSeek R1",
+    "link": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
+    "pubDate": "Wed, 19 Nov 2025 10:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.  The scien"
+  },
+  {
+    "title": "At our Research@ Poland event we shared how AI is helping us solve big challenges.",
+    "link": "https://blog.google/technology/research/ai-collaboration-poland-2025/",
+    "pubDate": "Wed, 19 Nov 2025 09:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "From AI education to disaster response, see how collaboration is at the heart of the work at Google Research."
+  },
+  {
     "title": "Networking for AI: Building the foundation for real-time intelligence",
     "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
     "pubDate": "Tue, 18 Nov 2025 16:03:14 +0000",
@@ -126,13 +140,6 @@
     "contentSnippet": "Learn more about new AI tools in Google Photos, including Nano Banana image-generation and more."
   },
   {
-    "title": "Our latest commitments in AI and learning",
-    "link": "https://blog.google/outreach-initiatives/education/ai-learning-commitments/",
-    "pubDate": "Tue, 11 Nov 2025 09:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "We’re bringing together experts, students, educators and more at our Google AI for Learning Forum."
-  },
-  {
     "title": "Reimagining cybersecurity in the era of AI and quantum",
     "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
     "pubDate": "Mon, 10 Nov 2025 14:19:28 +0000",
@@ -145,13 +152,6 @@
     "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": ""
-  },
-  {
-    "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
-    "link": "https://www.technologyreview.com/2025/10/30/1126471/chatbots-are-surprisingly-effective-at-debunking-conspiracy-theories/",
-    "pubDate": "Thu, 30 Oct 2025 10:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists o"
   },
   {
     "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
