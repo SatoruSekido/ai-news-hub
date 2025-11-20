@@ -1,5 +1,12 @@
 [
   {
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "link": "https://huggingface.co/blog/anylanguagemodel",
+    "pubDate": "Thu, 20 Nov 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "Scaling innovation in manufacturing with AI",
     "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
     "pubDate": "Wed, 19 Nov 2025 16:54:55 +0000",
@@ -198,13 +205,6 @@
   {
     "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
     "link": "https://huggingface.co/blog/virustotal",
-    "pubDate": "Wed, 22 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Sentence Transformers is joining Hugging Face!",
-    "link": "https://huggingface.co/blog/sentence-transformers-joins-hf",
     "pubDate": "Wed, 22 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
