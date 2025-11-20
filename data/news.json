@@ -1,5 +1,40 @@
 [
   {
+    "title": "How we’re bringing AI image verification to the Gemini app",
+    "link": "https://blog.google/technology/ai/ai-image-verification-gemini-app/",
+    "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI."
+  },
+  {
+    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+    "link": "https://blog.google/technology/developers/gemini-3-pro-image-developers/",
+    "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model."
+  },
+  {
+    "title": "Introducing Nano Banana Pro",
+    "link": "https://blog.google/technology/ai/nano-banana-pro/",
+    "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
+  },
+  {
+    "title": "Designing digital resilience in the agentic AI era",
+    "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
+    "pubDate": "Thu, 20 Nov 2025 14:30:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resil"
+  },
+  {
+    "title": "How Westinghouse is reenergizing nuclear power with — and for — AI",
+    "link": "https://blog.google/products/google-cloud/westinghouse/",
+    "pubDate": "Thu, 20 Nov 2025 14:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Westinghouse has partnered with Google Cloud to develop a custom AI-powered platform."
+  },
+  {
     "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
     "link": "https://huggingface.co/blog/anylanguagemodel",
     "pubDate": "Thu, 20 Nov 2025 00:00:00 GMT",
@@ -91,13 +126,6 @@
     "contentSnippet": "The new AI model delivers more efficient, more accurate and higher-resolution global weather predictions."
   },
   {
-    "title": "Google is committing $2.25 million to support AI-ready data in Africa.",
-    "link": "https://blog.google/technology/ai/ai-ready-data-in-africa/",
-    "pubDate": "Mon, 17 Nov 2025 08:30:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "New funding from Google will help launch a regional Data Commons for Africa."
-  },
-  {
     "title": "Easily Build and Share ROCm Kernels with Hugging Face",
     "link": "https://huggingface.co/blog/build-rocm-kernels",
     "pubDate": "Mon, 17 Nov 2025 00:00:00 GMT",
@@ -119,13 +147,6 @@
     "contentSnippet": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The company claims it’s a big step toward more general"
   },
   {
-    "title": "Google Pixel and Golden Goose partner to  bring AI to global ateliers",
-    "link": "https://blog.google/products/pixel/google-pixel-and-golden-goose-partner-to-bring-ai-to-global-ateliers/",
-    "pubDate": "Thu, 13 Nov 2025 08:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Advances in AI have opened up the possibilities for greater personalisation in the fashion world. Exploring this intersection between technology and high fashion, we’re …"
-  },
-  {
     "title": "Building for an Open Future - our new partnership with Google Cloud",
     "link": "https://huggingface.co/blog/google-cloud",
     "pubDate": "Thu, 13 Nov 2025 00:00:00 GMT",
@@ -138,27 +159,6 @@
     "pubDate": "Wed, 12 Nov 2025 10:11:15 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, l"
-  },
-  {
-    "title": "Private AI Compute: our next step in building private and helpful AI",
-    "link": "https://blog.google/technology/ai/google-private-ai-compute/",
-    "pubDate": "Tue, 11 Nov 2025 19:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you."
-  },
-  {
-    "title": "6 new things you can do with AI in Google Photos",
-    "link": "https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/",
-    "pubDate": "Tue, 11 Nov 2025 17:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learn more about new AI tools in Google Photos, including Nano Banana image-generation and more."
-  },
-  {
-    "title": "Reimagining cybersecurity in the era of AI and quantum",
-    "link": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
-    "pubDate": "Mon, 10 Nov 2025 14:19:28 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization"
   },
   {
     "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
