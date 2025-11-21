@@ -1,5 +1,12 @@
 [
   {
+    "title": "Develop a deeper understanding with interactive images in Gemini.",
+    "link": "https://blog.google/outreach-initiatives/education/gemini-interactive-images/",
+    "pubDate": "Thu, 20 Nov 2025 20:30:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learning science consistently shows us that true learning requires active engagement. This is fundamental to how Gemini helps you learn. Going beyond simple text and sta…"
+  },
+  {
     "title": "How we’re bringing AI image verification to the Gemini app",
     "link": "https://blog.google/technology/ai/ai-image-verification-gemini-app/",
     "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
@@ -117,13 +124,6 @@
     "pubDate": "Mon, 17 Nov 2025 16:30:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revoluti"
-  },
-  {
-    "title": "WeatherNext 2: Our most advanced weather forecasting model",
-    "link": "https://blog.google/technology/google-deepmind/weathernext-2/",
-    "pubDate": "Mon, 17 Nov 2025 15:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "The new AI model delivers more efficient, more accurate and higher-resolution global weather predictions."
   },
   {
     "title": "Easily Build and Share ROCm Kernels with Hugging Face",
