@@ -1,5 +1,19 @@
 [
   {
+    "title": "The State of AI: Chatbot companions and the future of our privacy",
+    "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
+    "pubDate": "Mon, 24 Nov 2025 16:30:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revoluti"
+  },
+  {
+    "title": "What’s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
+    "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
+    "pubDate": "Mon, 24 Nov 2025 16:21:12 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret proj"
+  },
+  {
     "title": "16 Google AI tips for stress-free holiday hosting in 2025",
     "link": "https://blog.google/products/pixel/google-holiday-hosting-tips-2024/",
     "pubDate": "Fri, 21 Nov 2025 16:00:00 +0000",
@@ -154,25 +168,11 @@
     "contentSnippet": "ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. That’s a big deal, because today’s LLMs are black boxes: Nobody fully understa"
   },
   {
-    "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
-    "link": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
-    "pubDate": "Thu, 13 Nov 2025 15:00:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The company claims it’s a big step toward more general"
-  },
-  {
     "title": "Building for an Open Future - our new partnership with Google Cloud",
     "link": "https://huggingface.co/blog/google-cloud",
     "pubDate": "Thu, 13 Nov 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Improving VMware migration workflows with agentic AI",
-    "link": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
-    "pubDate": "Wed, 12 Nov 2025 10:11:15 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, l"
   },
   {
     "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
