@@ -1,5 +1,26 @@
 [
   {
+    "title": "4 ways to refine your content in Flow",
+    "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
+    "pubDate": "Tue, 25 Nov 2025 17:40:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "You’ll now get more creative control in Flow with new refinement and editing capabilities."
+  },
+  {
+    "title": "Diffusers welcomes FLUX-2",
+    "link": "https://huggingface.co/blog/flux-2",
+    "pubDate": "Tue, 25 Nov 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Continuous batching from first principles",
+    "link": "https://huggingface.co/blog/continuous_batching",
+    "pubDate": "Tue, 25 Nov 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "The State of AI: Chatbot companions and the future of our privacy",
     "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
     "pubDate": "Mon, 24 Nov 2025 16:30:00 +0000",
@@ -12,6 +33,13 @@
     "pubDate": "Mon, 24 Nov 2025 16:21:12 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret proj"
+  },
+  {
+    "title": "16 Google AI tips for stress-free holiday hosting in 2025",
+    "link": "https://blog.google/products/pixel/google-holiday-hosting-tips-2024/",
+    "pubDate": "Fri, 21 Nov 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Use Gemini, Search, Pixel and more to make holiday planning feel effortless in 2025."
   },
   {
     "title": "20x Faster TRL Fine-tuning with RapidFire AI",
@@ -28,11 +56,46 @@
     "contentSnippet": ""
   },
   {
+    "title": "Develop a deeper understanding with interactive images in Gemini.",
+    "link": "https://blog.google/outreach-initiatives/education/gemini-interactive-images/",
+    "pubDate": "Thu, 20 Nov 2025 20:30:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learning science consistently shows us that true learning requires active engagement. This is fundamental to how Gemini helps you learn. Going beyond simple text and sta…"
+  },
+  {
+    "title": "How we’re bringing AI image verification to the Gemini app",
+    "link": "https://blog.google/technology/ai/ai-image-verification-gemini-app/",
+    "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI."
+  },
+  {
+    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+    "link": "https://blog.google/technology/developers/gemini-3-pro-image-developers/",
+    "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model."
+  },
+  {
+    "title": "Introducing Nano Banana Pro",
+    "link": "https://blog.google/technology/ai/nano-banana-pro/",
+    "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
+  },
+  {
     "title": "Designing digital resilience in the agentic AI era",
     "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
     "pubDate": "Thu, 20 Nov 2025 14:30:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resil"
+  },
+  {
+    "title": "How Westinghouse is reenergizing nuclear power with — and for — AI",
+    "link": "https://blog.google/products/google-cloud/westinghouse/",
+    "pubDate": "Thu, 20 Nov 2025 14:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Westinghouse has partnered with Google Cloud to develop a custom AI-powered platform."
   },
   {
     "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
@@ -56,6 +119,13 @@
     "contentSnippet": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.  The scien"
   },
   {
+    "title": "At our Research@ Poland event we shared how AI is helping us solve big challenges.",
+    "link": "https://blog.google/technology/research/ai-collaboration-poland-2025/",
+    "pubDate": "Wed, 19 Nov 2025 09:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "From AI education to disaster response, see how collaboration is at the heart of the work at Google Research."
+  },
+  {
     "title": "Networking for AI: Building the foundation for real-time intelligence",
     "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
     "pubDate": "Tue, 18 Nov 2025 16:03:14 +0000",
@@ -75,6 +145,20 @@
     "pubDate": "Tue, 18 Nov 2025 16:00:07 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across"
+  },
+  {
+    "title": "Google Search with Gemini 3: Our most intelligent search yet",
+    "link": "https://blog.google/products/search/gemini-3-search-ai-mode/",
+    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about Gemini 3 and how it’s upgrading Google Search and AI Mode."
+  },
+  {
+    "title": "A new era of intelligence with Gemini 3",
+    "link": "https://blog.google/products/gemini/gemini-3/",
+    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life."
   },
   {
     "title": "The State of AI: How war will be changed forever",
@@ -122,20 +206,6 @@
     "title": "Streaming datasets: 100x More Efficient",
     "link": "https://huggingface.co/blog/streaming-datasets",
     "pubDate": "Mon, 27 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "link": "https://huggingface.co/blog/huggingface-hub-v1",
-    "pubDate": "Mon, 27 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
-    "link": "https://huggingface.co/blog/lerobot-release-v040",
-    "pubDate": "Fri, 24 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
   }
