@@ -1,10 +1,24 @@
 [
   {
+    "title": "The Google guide for holiday help",
+    "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
+    "pubDate": "Tue, 25 Nov 2025 18:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays."
+  },
+  {
     "title": "4 ways to refine your content in Flow",
     "link": "https://blog.google/technology/google-labs/flow-refine-videos/",
     "pubDate": "Tue, 25 Nov 2025 17:40:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "You’ll now get more creative control in Flow with new refinement and editing capabilities."
+  },
+  {
+    "title": "3 things to know about Ironwood, our latest TPU",
+    "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+    "pubDate": "Tue, 25 Nov 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google’s seventh-gen Tensor Processing Unit is here! Learn what makes Ironwood our most powerful and energy-efficient custom silicon to date."
   },
   {
     "title": "Diffusers welcomes FLUX-2",
@@ -145,20 +159,6 @@
     "pubDate": "Tue, 18 Nov 2025 16:00:07 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across"
-  },
-  {
-    "title": "Google Search with Gemini 3: Our most intelligent search yet",
-    "link": "https://blog.google/products/search/gemini-3-search-ai-mode/",
-    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learn more about Gemini 3 and how it’s upgrading Google Search and AI Mode."
-  },
-  {
-    "title": "A new era of intelligence with Gemini 3",
-    "link": "https://blog.google/products/gemini/gemini-3/",
-    "pubDate": "Tue, 18 Nov 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life."
   },
   {
     "title": "The State of AI: How war will be changed forever",
