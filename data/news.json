@@ -1,5 +1,12 @@
 [
   {
+    "title": "Here’s how researchers in Asia-Pacific are using AlphaFold",
+    "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
+    "pubDate": "Wed, 26 Nov 2025 23:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about AlphaFold, Google’s AI system that accurately predicts protein structures."
+  },
+  {
     "title": "The AI Hype Index: The people can’t get enough of AI slop",
     "link": "https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/",
     "pubDate": "Wed, 26 Nov 2025 10:00:00 +0000",
@@ -117,13 +124,6 @@
     "pubDate": "Thu, 20 Nov 2025 14:30:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resil"
-  },
-  {
-    "title": "How Westinghouse is reenergizing nuclear power with — and for — AI",
-    "link": "https://blog.google/products/google-cloud/westinghouse/",
-    "pubDate": "Thu, 20 Nov 2025 14:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Westinghouse has partnered with Google Cloud to develop a custom AI-powered platform."
   },
   {
     "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
