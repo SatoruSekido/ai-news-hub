@@ -1,5 +1,12 @@
 [
   {
+    "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
+    "link": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
+    "pubDate": "Mon, 01 Dec 2025 10:30:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "A US telecom company trained an AI model on years of inmates’ phone and video calls and is now piloting that model to scan their calls, texts, and emails in the hope of predicting and preventing crime"
+  },
+  {
     "title": "Here’s how researchers in Asia-Pacific are using AlphaFold",
     "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
     "pubDate": "Wed, 26 Nov 2025 23:00:00 +0000",
@@ -166,13 +173,6 @@
     "pubDate": "Tue, 18 Nov 2025 16:00:07 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across"
-  },
-  {
-    "title": "The State of AI: How war will be changed forever",
-    "link": "https://www.technologyreview.com/2025/11/17/1127514/the-state-of-ai-the-new-rules-of-war/",
-    "pubDate": "Mon, 17 Nov 2025 16:30:00 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revoluti"
   },
   {
     "title": "Easily Build and Share ROCm Kernels with Hugging Face",
