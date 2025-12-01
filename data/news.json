@@ -1,10 +1,24 @@
 [
   {
+    "title": "The State of AI: welcome to the economic singularity",
+    "link": "https://www.technologyreview.com/2025/12/01/1127872/the-state-of-ai-welcome-to-the-economic-singularity/",
+    "pubDate": "Mon, 01 Dec 2025 16:30:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday for the next two weeks, writers from both publications will debate one aspect o"
+  },
+  {
     "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
     "link": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
     "pubDate": "Mon, 01 Dec 2025 10:30:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "A US telecom company trained an AI model on years of inmates’ phone and video calls and is now piloting that model to scan their calls, texts, and emails in the hope of predicting and preventing crime"
+  },
+  {
+    "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+    "link": "https://huggingface.co/blog/transformers-v5",
+    "pubDate": "Mon, 01 Dec 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
   },
   {
     "title": "Here’s how researchers in Asia-Pacific are using AlphaFold",
@@ -168,13 +182,6 @@
     "contentSnippet": "Training an AI model to predict equipment failures is an engineering achievement. But it’s not until prediction meets action—the moment that model successfully flags a malfunctioning machine—that true"
   },
   {
-    "title": "Google’s new Gemini 3 “vibe-codes” responses and comes with its own agent",
-    "link": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/",
-    "pubDate": "Tue, 18 Nov 2025 16:00:07 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across"
-  },
-  {
     "title": "Easily Build and Share ROCm Kernels with Hugging Face",
     "link": "https://huggingface.co/blog/build-rocm-kernels",
     "pubDate": "Mon, 17 Nov 2025 00:00:00 GMT",
@@ -199,13 +206,6 @@
     "title": "Voice Cloning with Consent",
     "link": "https://huggingface.co/blog/voice-consent-gate",
     "pubDate": "Tue, 28 Oct 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Streaming datasets: 100x More Efficient",
-    "link": "https://huggingface.co/blog/streaming-datasets",
-    "pubDate": "Mon, 27 Oct 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
   }
