@@ -1,6 +1,13 @@
 [
   {
-    "title": "The State of AI: welcome to the economic singularity",
+    "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
+    "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
+    "pubDate": "Mon, 01 Dec 2025 20:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "We're bringing our most intelligent model yet, Gemini 3 Pro, to Google Search in more countries around the world."
+  },
+  {
+    "title": "The State of AI: Welcome to the economic singularity",
     "link": "https://www.technologyreview.com/2025/12/01/1127872/the-state-of-ai-welcome-to-the-economic-singularity/",
     "pubDate": "Mon, 01 Dec 2025 16:30:00 +0000",
     "source": "MIT Tech Review",
@@ -131,13 +138,6 @@
     "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model."
-  },
-  {
-    "title": "Introducing Nano Banana Pro",
-    "link": "https://blog.google/technology/ai/nano-banana-pro/",
-    "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
   },
   {
     "title": "Designing digital resilience in the agentic AI era",
