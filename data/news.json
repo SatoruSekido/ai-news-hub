@@ -1,5 +1,12 @@
 [
   {
+    "title": "Use Circle to Search and Google Lens to spot scam messages.",
+    "link": "https://blog.google/products/search/scam-detection-circle-to-search-lens/",
+    "pubDate": "Tue, 02 Dec 2025 19:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "You can now use Circle to Search and Google Lens to detect scammy messages you receive on your phone."
+  },
+  {
     "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
     "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
     "pubDate": "Mon, 01 Dec 2025 20:00:00 +0000",
@@ -131,13 +138,6 @@
     "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Our new Gemini app feature allows you to verify Google AI images and determine whether content was created or edited by AI."
-  },
-  {
-    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-    "link": "https://blog.google/technology/developers/gemini-3-pro-image-developers/",
-    "pubDate": "Thu, 20 Nov 2025 15:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Nano Banana Pro, or Gemini 3 Pro Image, is our most advanced image generation and editing model."
   },
   {
     "title": "Designing digital resilience in the agentic AI era",
