@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenAI has trained its LLM to confess to bad behavior",
+    "link": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/",
+    "pubDate": "Wed, 03 Dec 2025 18:01:39 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the"
+  },
+  {
+    "title": "Look back on your 2025 with Google Photos Recap",
+    "link": "https://blog.google/products/photos/google-photos-2025-recap/",
+    "pubDate": "Wed, 03 Dec 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about Google Photos Recap — now available for 2025 — and how you can explore, customize and share it today."
+  },
+  {
     "title": "We’re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
     "link": "https://blog.google/technology/health/ai-health-fund-eu/",
     "pubDate": "Wed, 03 Dec 2025 12:00:00 +0000",
@@ -161,13 +175,6 @@
     "contentSnippet": ""
   },
   {
-    "title": "Develop a deeper understanding with interactive images in Gemini.",
-    "link": "https://blog.google/outreach-initiatives/education/gemini-interactive-images/",
-    "pubDate": "Thu, 20 Nov 2025 20:30:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learning science consistently shows us that true learning requires active engagement. This is fundamental to how Gemini helps you learn. Going beyond simple text and sta…"
-  },
-  {
     "title": "Designing digital resilience in the agentic AI era",
     "link": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
     "pubDate": "Thu, 20 Nov 2025 14:30:00 +0000",
@@ -201,12 +208,5 @@
     "pubDate": "Tue, 18 Nov 2025 16:03:14 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators "
-  },
-  {
-    "title": "Realizing value with AI inference at scale and in production",
-    "link": "https://www.technologyreview.com/2025/11/18/1128007/realizing-value-with-ai-inference-at-scale-and-in-production/",
-    "pubDate": "Tue, 18 Nov 2025 16:02:16 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Training an AI model to predict equipment failures is an engineering achievement. But it’s not until prediction meets action—the moment that model successfully flags a malfunctioning machine—that true"
   }
 ]
