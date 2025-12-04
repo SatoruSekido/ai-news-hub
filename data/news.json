@@ -1,5 +1,12 @@
 [
   {
+    "title": "Delivering securely on data and AI strategy ",
+    "link": "https://www.technologyreview.com/2025/12/04/1128311/delivering-securely-on-data-and-ai-strategy/",
+    "pubDate": "Thu, 04 Dec 2025 14:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Most organizations feel the imperative to keep pace with continuing advances in AI capabilities, as highlighted in a recent MIT Technology Review Insights report. That clearly has security implication"
+  },
+  {
     "title": "We Got Claude to Fine-Tune an Open Source LLM",
     "link": "https://huggingface.co/blog/hf-skills-training",
     "pubDate": "Thu, 04 Dec 2025 00:00:00 GMT",
@@ -68,13 +75,6 @@
     "pubDate": "Mon, 01 Dec 2025 10:30:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "A US telecom company trained an AI model on years of inmates’ phone and video calls and is now piloting that model to scan their calls, texts, and emails in the hope of predicting and preventing crime"
-  },
-  {
-    "title": "SARLO-80: Worldwide Slant SAR Language Optic Dataset at 80 cm Resolution",
-    "link": "https://huggingface.co/blog/hugging-science/sarlo-80-sar-optic-language-dataset",
-    "pubDate": "Mon, 01 Dec 2025 10:10:38 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
   },
   {
     "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
@@ -189,6 +189,13 @@
     "contentSnippet": "Digital resilience—the ability to prevent, withstand, and recover from digital disruptions—has long been a strategic priority for enterprises. With the rise of agentic AI, the urgency for robust resil"
   },
   {
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "link": "https://huggingface.co/blog/anylanguagemodel",
+    "pubDate": "Thu, 20 Nov 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "Scaling innovation in manufacturing with AI",
     "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
     "pubDate": "Wed, 19 Nov 2025 16:54:55 +0000",
@@ -201,12 +208,5 @@
     "pubDate": "Wed, 19 Nov 2025 10:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.  The scien"
-  },
-  {
-    "title": "Networking for AI: Building the foundation for real-time intelligence",
-    "link": "https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/",
-    "pubDate": "Tue, 18 Nov 2025 16:03:14 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "The Ryder Cup is an almost-century-old tournament pitting Europe against the United States in an elite showcase of golf skill and strategy. At the 2025 event, nearly a quarter of a million spectators "
   }
 ]
