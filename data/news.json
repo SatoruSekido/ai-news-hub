@@ -1,5 +1,12 @@
 [
   {
+    "title": "The era of AI persuasion in elections is about to begin",
+    "link": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
+    "pubDate": "Fri, 05 Dec 2025 10:00:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "In January 2024, the phone rang in homes all around New Hampshire. On the other end was Joe Biden’s voice, urging Democrats to “save your vote” by skipping the primary. It sounded authentic, but it wa"
+  },
+  {
     "title": "AI chatbots can sway voters better than political advertisements",
     "link": "https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/",
     "pubDate": "Thu, 04 Dec 2025 19:54:57 +0000",
@@ -201,12 +208,5 @@
     "pubDate": "Thu, 20 Nov 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Scaling innovation in manufacturing with AI",
-    "link": "https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/",
-    "pubDate": "Wed, 19 Nov 2025 16:54:55 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "Manufacturing is getting a major system upgrade. As AI amplifies existing technologies—like digital twins, the cloud, edge computing, and the industrial internet of things (IIoT)—it is enabling factor"
   }
 ]
