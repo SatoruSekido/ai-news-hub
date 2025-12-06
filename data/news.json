@@ -1,5 +1,12 @@
 [
   {
+    "title": "The latest AI news we announced in November",
+    "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
+    "pubDate": "Fri, 05 Dec 2025 19:45:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Here are Google’s latest AI updates from November 2025"
+  },
+  {
     "title": "New research from Google Workspace reveals how young leaders are using AI at work.",
     "link": "https://blog.google/products/workspace/young-leaders-survey-ai/",
     "pubDate": "Fri, 05 Dec 2025 16:00:00 +0000",
@@ -145,13 +152,6 @@
     "pubDate": "Tue, 25 Nov 2025 23:39:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast."
-  },
-  {
-    "title": "The Google guide for holiday help",
-    "link": "https://blog.google/technology/ai/holiday-planning-ai-gemini-tips/",
-    "pubDate": "Tue, 25 Nov 2025 18:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays."
   },
   {
     "title": "Diffusers welcomes FLUX-2",
