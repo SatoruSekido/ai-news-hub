@@ -1,5 +1,12 @@
 [
   {
+    "title": "Transforming Nordic classrooms through responsible AI partnerships",
+    "link": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
+    "pubDate": "Mon, 08 Dec 2025 10:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Schools across Northern Europe are safely and responsibly integrating Google and Gemini for Education tools in the classroom, saving teachers and administrations signifi…"
+  },
+  {
     "title": "The latest AI news we announced in November",
     "link": "https://blog.google/technology/ai/google-ai-updates-november-2025/",
     "pubDate": "Fri, 05 Dec 2025 19:45:00 +0000",
@@ -54,6 +61,13 @@
     "pubDate": "Thu, 04 Dec 2025 14:00:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Most organizations feel the imperative to keep pace with continuing advances in AI capabilities, as highlighted in a recent MIT Technology Review Insights report. That clearly has security implication"
+  },
+  {
+    "title": "DeepMath: A lightweight math reasoning Agent with SmolAgents",
+    "link": "https://huggingface.co/blog/intel-deepmath",
+    "pubDate": "Thu, 04 Dec 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
   },
   {
     "title": "We Got Claude to Fine-Tune an Open Source LLM",
@@ -147,13 +161,6 @@
     "contentSnippet": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. "
   },
   {
-    "title": "Get an in-depth look at Gemini 3 with CEO Sundar Pichai.",
-    "link": "https://blog.google/technology/ai/sundar-pichai-ai-release-notes-podcast/",
-    "pubDate": "Tue, 25 Nov 2025 23:39:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Sundar Pichai sits down with Logan Kilpatrick to discuss Gemini 3 on the Google AI: Release Notes podcast."
-  },
-  {
     "title": "Diffusers welcomes FLUX-2",
     "link": "https://huggingface.co/blog/flux-2",
     "pubDate": "Tue, 25 Nov 2025 00:00:00 GMT",
@@ -198,13 +205,6 @@
   {
     "title": "20x Faster TRL Fine-tuning with RapidFire AI",
     "link": "https://huggingface.co/blog/rapidfireai",
-    "pubDate": "Fri, 21 Nov 2025 00:00:00 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard",
     "pubDate": "Fri, 21 Nov 2025 00:00:00 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
