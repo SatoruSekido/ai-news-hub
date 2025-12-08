@@ -1,5 +1,19 @@
 [
   {
+    "title": "How we’re supporting the next generation of innovators",
+    "link": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
+    "pubDate": "Mon, 08 Dec 2025 18:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "An overview of Google’s latest funding announcement for computer science education and the newest AI Quest."
+  },
+  {
+    "title": "The State of AI: A vision of the world in 2030",
+    "link": "https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/",
+    "pubDate": "Mon, 08 Dec 2025 16:30:00 +0000",
+    "source": "MIT Tech Review",
+    "contentSnippet": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revoluti"
+  },
+  {
     "title": "Transforming Nordic classrooms through responsible AI partnerships",
     "link": "https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/",
     "pubDate": "Mon, 08 Dec 2025 10:00:00 +0000",
@@ -147,13 +161,6 @@
     "contentSnippet": ""
   },
   {
-    "title": "Here’s how researchers in Asia-Pacific are using AlphaFold",
-    "link": "https://blog.google/around-the-globe/google-asia/researchers-asia-pacific-alphafold-five-years/",
-    "pubDate": "Wed, 26 Nov 2025 23:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learn more about AlphaFold, Google’s AI system that accurately predicts protein structures."
-  },
-  {
     "title": "The AI Hype Index: The people can’t get enough of AI slop",
     "link": "https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/",
     "pubDate": "Wed, 26 Nov 2025 10:00:00 +0000",
@@ -187,13 +194,6 @@
     "pubDate": "Mon, 24 Nov 2025 16:30:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revoluti"
-  },
-  {
-    "title": "What’s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate",
-    "link": "https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/",
-    "pubDate": "Mon, 24 Nov 2025 16:21:12 +0000",
-    "source": "MIT Tech Review",
-    "contentSnippet": "In 2017, fresh off a PhD on theoretical chemistry, John Jumper heard rumors that Google DeepMind had moved on from building AI that played games with superhuman skill and was starting up a secret proj"
   },
   {
     "title": "OVHcloud on Hugging Face Inference Providers 🔥",
