@@ -1,5 +1,19 @@
 [
   {
+    "title": "Learn more about AI in the workplace in our new research report.",
+    "link": "https://blog.google/products/workspace/gemini-ai-workplace-research-report/",
+    "pubDate": "Tue, 09 Dec 2025 17:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "A new global survey of executives, decision makers and knowledge workers reveals that organizations truly transforming with AI are seeing real results that move their bu…"
+  },
+  {
+    "title": "2025 at Google",
+    "link": "https://blog.google/technology/ai/look-back-2025/",
+    "pubDate": "Tue, 09 Dec 2025 16:00:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Learn more about Google’s launches, milestones and more from 2025."
+  },
+  {
     "title": "How we’re supporting the next generation of innovators",
     "link": "https://blog.google/outreach-initiatives/education/next-gen-computer-science-innovators/",
     "pubDate": "Mon, 08 Dec 2025 18:00:00 +0000",
@@ -119,25 +133,11 @@
     "contentSnippet": "Today, we are celebrating the extraordinary impact of Nobel Prize-winner Geoffrey Hinton by investing in the future of the field he helped build. Google is proud to supp…"
   },
   {
-    "title": "Use Circle to Search and Google Lens to spot scam messages.",
-    "link": "https://blog.google/products/search/scam-detection-circle-to-search-lens/",
-    "pubDate": "Tue, 02 Dec 2025 19:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "You can now use Circle to Search and Google Lens to detect scammy messages you receive on your phone."
-  },
-  {
     "title": "Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications",
     "link": "https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety",
     "pubDate": "Tue, 02 Dec 2025 18:50:28 GMT",
     "source": "Hugging Face",
     "contentSnippet": ""
-  },
-  {
-    "title": "Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.",
-    "link": "https://blog.google/products/search/gemini-3-ai-mode-more-countries/",
-    "pubDate": "Mon, 01 Dec 2025 20:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "We're bringing our most intelligent model yet, Gemini 3 Pro, to Google Search in more countries around the world."
   },
   {
     "title": "The State of AI: Welcome to the economic singularity",
