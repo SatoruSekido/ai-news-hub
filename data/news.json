@@ -77,7 +77,7 @@
     "contentSnippet": "Most organizations feel the imperative to keep pace with continuing advances in AI capabilities, as highlighted in a recent MIT Technology Review Insights report. That clearly has security implication"
   },
   {
-    "title": "DeepMath: A lightweight math reasoning Agent with SmolAgents",
+    "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
     "link": "https://huggingface.co/blog/intel-deepmath",
     "pubDate": "Thu, 04 Dec 2025 00:00:00 GMT",
     "source": "Hugging Face",
