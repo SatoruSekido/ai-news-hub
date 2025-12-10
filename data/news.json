@@ -1,5 +1,12 @@
 [
   {
+    "title": "These developers are changing lives with Gemma 3n",
+    "link": "https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/",
+    "pubDate": "Wed, 10 Dec 2025 17:15:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "From enhancing assistive technology to addressing the digital divide, developers built mobile-first solutions to address real-world problems in the Gemma 3n Impact Chall…"
+  },
+  {
     "title": "Apriel-1.6-15b-Thinker: Cost-efficient Frontier Multimodal Performance",
     "link": "https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker",
     "pubDate": "Tue, 09 Dec 2025 20:06:56 GMT",
@@ -131,13 +138,6 @@
     "pubDate": "Wed, 03 Dec 2025 12:00:00 +0000",
     "source": "Google AI Blog",
     "contentSnippet": "At the European Health Summit in Brussels, Greg Corrado, Distinguished Scientist at Google, released a new report authored by Implement Consulting Group and commissioned…"
-  },
-  {
-    "title": "We’re celebrating Geoffrey Hinton’s Nobel-winning legacy with the University of Toronto.",
-    "link": "https://blog.google/technology/ai/hinton-chair-toronto/",
-    "pubDate": "Wed, 03 Dec 2025 00:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Today, we are celebrating the extraordinary impact of Nobel Prize-winner Geoffrey Hinton by investing in the future of the field he helped build. Google is proud to supp…"
   },
   {
     "title": "Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications",
