@@ -1,5 +1,19 @@
 [
   {
+    "title": "New in llama.cpp: Model Management",
+    "link": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
+    "pubDate": "Thu, 11 Dec 2025 15:47:44 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Codex is Open Sourcing AI models",
+    "link": "https://huggingface.co/blog/hf-skills-training-codex",
+    "pubDate": "Thu, 11 Dec 2025 00:00:00 GMT",
+    "source": "Hugging Face",
+    "contentSnippet": ""
+  },
+  {
     "title": "These developers are changing lives with Gemma 3n",
     "link": "https://blog.google/technology/developers/developers-changing-lives-with-gemma-3n/",
     "pubDate": "Wed, 10 Dec 2025 17:15:00 +0000",
@@ -189,24 +203,10 @@
     "contentSnippet": ""
   },
   {
-    "title": "Building Deep Research: How we Achieved State of the Art",
-    "link": "https://huggingface.co/blog/Tavily/tavily-deep-research",
-    "pubDate": "Mon, 24 Nov 2025 17:40:14 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
-  },
-  {
     "title": "The State of AI: Chatbot companions and the future of our privacy",
     "link": "https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/",
     "pubDate": "Mon, 24 Nov 2025 16:30:00 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "Welcome back to The State of AI, a new collaboration between the Financial Times and MIT Technology Review. Every Monday, writers from both publications debate one aspect of the generative AI revoluti"
-  },
-  {
-    "title": "OVHcloud on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
-    "pubDate": "Mon, 24 Nov 2025 16:08:47 GMT",
-    "source": "Hugging Face",
-    "contentSnippet": ""
   }
 ]
