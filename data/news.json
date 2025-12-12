@@ -1,5 +1,19 @@
 [
   {
+    "title": "Gradient Canvas: Celebrating over a decade of artistic collaborations with AI",
+    "link": "https://blog.google/technology/ai/google-gradient-canvas-ai-art/",
+    "pubDate": "Thu, 11 Dec 2025 21:30:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Gradient Canvas is a new art exhibition celebrating a decade of creative collaborations between artists and artificial intelligence."
+  },
+  {
+    "title": "4 highlights from Google Beam in 2025",
+    "link": "https://blog.google/technology/research/google-beam-2025-moments/",
+    "pubDate": "Thu, 11 Dec 2025 18:30:00 +0000",
+    "source": "Google AI Blog",
+    "contentSnippet": "Google Beam, our first true-to-life 3D video communication platform, made great progress in 2025."
+  },
+  {
     "title": "New in llama.cpp: Model Management",
     "link": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
     "pubDate": "Thu, 11 Dec 2025 15:47:44 GMT",
@@ -138,20 +152,6 @@
     "pubDate": "Wed, 03 Dec 2025 18:01:39 +0000",
     "source": "MIT Tech Review",
     "contentSnippet": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the"
-  },
-  {
-    "title": "Look back on your 2025 with Google Photos Recap",
-    "link": "https://blog.google/products/photos/google-photos-2025-recap/",
-    "pubDate": "Wed, 03 Dec 2025 16:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "Learn more about Google Photos Recap — now available for 2025 — and how you can explore, customize and share it today."
-  },
-  {
-    "title": "We’re announcing new health AI funding, while a new report signals a turning point for health in Europe.",
-    "link": "https://blog.google/technology/health/ai-health-fund-eu/",
-    "pubDate": "Wed, 03 Dec 2025 12:00:00 +0000",
-    "source": "Google AI Blog",
-    "contentSnippet": "At the European Health Summit in Brussels, Greg Corrado, Distinguished Scientist at Google, released a new report authored by Implement Consulting Group and commissioned…"
   },
   {
     "title": "Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications",
